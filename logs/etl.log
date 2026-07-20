@@ -1,0 +1,31 @@
+2026-07-19 11:27:44,247 - INFO - Found 15 files.
+2026-07-19 11:27:45,044 - INFO - Processing: shipments_2026_07_01.csv
+2026-07-19 11:39:17,559 INFO Found 15 files
+2026-07-19 11:41:34,463 INFO Found 15 files
+2026-07-19 11:47:47,595 INFO Found 15 files
+2026-07-19 11:51:03,635 INFO Found 15 files
+2026-07-19 11:51:52,803 INFO Found 15 files
+2026-07-19 12:54:39,349 INFO Found 15 files
+2026-07-19 12:54:41,126 INFO Loaded Successfully: shipments_2026_07_01.csv
+2026-07-19 12:54:41,948 INFO Loaded Successfully: shipments_2026_07_02.csv
+2026-07-19 12:54:42,797 INFO Loaded Successfully: shipments_2026_07_03.csv
+2026-07-19 12:54:43,603 INFO Loaded Successfully: shipments_2026_07_04.csv
+2026-07-19 12:54:44,354 INFO Loaded Successfully: shipments_2026_07_05.csv
+2026-07-19 12:54:45,076 INFO Loaded Successfully: shipments_2026_07_06.csv
+2026-07-19 12:54:45,965 INFO Loaded Successfully: shipments_2026_07_07.csv
+2026-07-19 12:54:46,788 INFO Loaded Successfully: shipments_2026_07_08.csv
+2026-07-19 12:54:47,546 INFO Loaded Successfully: shipments_2026_07_09.csv
+2026-07-19 12:54:48,295 INFO Loaded Successfully: shipments_2026_07_10.csv
+2026-07-19 12:54:49,044 INFO Loaded Successfully: shipments_2026_07_11.csv
+2026-07-19 12:54:49,831 INFO Loaded Successfully: shipments_2026_07_12.csv
+2026-07-19 12:54:50,651 INFO Loaded Successfully: shipments_2026_07_13.csv
+2026-07-19 12:54:51,416 INFO Loaded Successfully: shipments_2026_07_14.csv
+2026-07-19 12:54:52,268 INFO Loaded Successfully: shipments_2026_07_15.csv
+2026-07-19 12:54:52,269 INFO ETL COMPLETED SUCCESSFULLY
+2026-07-19 22:50:35,751 INFO Found 15 files
+2026-07-19 22:50:37,281 INFO ETL COMPLETED SUCCESSFULLY
+2026-07-20 11:53:24,298 INFO Found 19 files
+2026-07-20 11:59:42,270 INFO Found 15 files
+2026-07-20 11:59:44,157 INFO ETL COMPLETED SUCCESSFULLY
+2026-07-20 13:45:26,378 INFO Found 15 files
+2026-07-20 13:45:27,110 INFO ETL COMPLETED SUCCESSFULLY

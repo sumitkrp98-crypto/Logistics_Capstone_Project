@@ -1,0 +1,6 @@
+carrier_id,carrier_name,service_tier,valid_from,is_current
+C001,DHL,Premium,2026-07-01,True
+C002,FedEx,Premium,2026-07-01,True
+C003,Blue Dart,Standard,2026-07-01,True
+C004,Delhivery,Economy,2026-07-01,True
+C005,Ecom Express,Economy,2026-07-01,True

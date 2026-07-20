@@ -1,0 +1,2 @@
+warehouse_id,warehouse_name,region,valid_from,is_current
+W002,Mumbai_WH02_New,West,2026-07-10,True

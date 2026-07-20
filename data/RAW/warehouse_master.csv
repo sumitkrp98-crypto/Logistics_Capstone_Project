@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region,valid_from,is_current
+W001,Delhi_WH01,North,2026-07-01,True
+W002,Mumbai_WH02,West,2026-07-01,True
+W003,Bengaluru_WH03,South,2026-07-01,True
+W004,Hyderabad_WH04,South,2026-07-01,True
+W005,Chennai_WH05,South,2026-07-01,True

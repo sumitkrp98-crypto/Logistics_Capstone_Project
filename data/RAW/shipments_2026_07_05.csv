@@ -1,0 +1,1001 @@
+shipment_id,order_id,shipment_date,warehouse,origin_city,destination_city,carrier,vehicle_type,weight_kg,distance_km,shipping_cost,status
+SHP004001,ORD104001,2026-07-05,Chennai_WH05,Lucknow,Delhi,FedEx,Truck,3.02,1121,2134.04,Delivered
+SHP004002,ORD104002,2026-07-05,Hyderabad_WH04,Bengaluru,Ahmedabad,FedEx,Mini Truck,37.2,928,2196.8,Delivered
+SHP004003,ORD104003,2026-07-05,Delhi_WH01,Chennai,Delhi,Ecom Express,Truck,38.03,362,1187.96,Delivered
+SHP004004,ORD104004,2026-07-05,Delhi_WH01,Ahmedabad,Jaipur,FedEx,Bike,8.2,1437,2765.0,Delivered
+SHP004005,ORD104005,2026-07-05,Hyderabad_WH04,Ahmedabad,Bengaluru,Ecom Express,Van,20.28,246,766.16,In Transit
+SHP004006,ORD104006,2026-07-05,Chennai_WH05,Delhi,Chennai,Blue Dart,Van,18.35,825,1785.2,Delivered
+SHP004007,ORD104007,2026-07-05,Delhi_WH01,Bengaluru,Chennai,Delhivery,Bike,21.7,923,2001.8,In Transit
+SHP004008,ORD104008,2026-07-05,Mumbai_WH02,Jaipur,Hyderabad,Ecom Express,Bike,5.63,1174,2260.76,In Transit
+SHP004009,ORD104009,2026-07-05,Delhi_WH01,Jaipur,Pune,DHL,Van,6.13,1236,2378.36,Delivered
+SHP004010,ORD104010,2026-07-05,Hyderabad_WH04,Mumbai,Lucknow,Delhivery,Mini Truck,0.93,1231,2306.96,Delivered
+SHP004011,ORD104011,2026-07-05,Delhi_WH01,Lucknow,Chennai,DHL,Truck,45.92,1880,4015.04,Delivered
+SHP004012,ORD104012,2026-07-05,Delhi_WH01,Hyderabad,Jaipur,DHL,Truck,24.84,1954,3895.28,Delivered
+SHP004013,ORD104013,2026-07-05,Mumbai_WH02,Delhi,Kolkata,DHL,Truck,13.96,1364,2702.72,Delivered
+SHP004014,ORD104014,2026-07-05,Mumbai_WH02,Pune,Jaipur,Blue Dart,Mini Truck,4.29,1378,2611.88,Delivered
+SHP004015,ORD104015,2026-07-05,Bengaluru_WH03,Mumbai,Jaipur,Blue Dart,Van,42.93,1333,2994.56,Delivered
+SHP004016,ORD104016,2026-07-05,Delhi_WH01,Kolkata,Delhi,DHL,Van,9.88,594,1267.76,Delivered
+SHP004017,ORD104017,2026-07-05,Bengaluru_WH03,Jaipur,Bengaluru,DHL,Mini Truck,42.96,1323,2976.92,In Transit
+SHP004018,ORD104018,2026-07-05,Chennai_WH05,Mumbai,Jaipur,Blue Dart,Mini Truck,40.28,1785,3776.36,Delivered
+SHP004019,ORD104019,2026-07-05,Mumbai_WH02,Pune,Mumbai,Delhivery,Truck,36.39,616,1625.48,Delayed
+SHP004020,ORD104020,2026-07-05,Chennai_WH05,Pune,Hyderabad,DHL,Van,49.88,2149,4546.76,Delivered
+SHP004021,ORD104021,2026-07-05,Chennai_WH05,Bengaluru,Kolkata,Ecom Express,Van,41.97,1455,3202.64,Delivered
+SHP004022,ORD104022,2026-07-05,Delhi_WH01,Delhi,Kolkata,Delhivery,Mini Truck,8.59,1440,2775.08,Delivered
+SHP004023,ORD104023,2026-07-05,Hyderabad_WH04,Delhi,Ahmedabad,FedEx,Van,37.48,528,1480.16,Cancelled
+SHP004024,ORD104024,2026-07-05,Bengaluru_WH03,Lucknow,Chennai,Delhivery,Truck,37.35,2466,4967.0,In Transit
+SHP004025,ORD104025,2026-07-05,Mumbai_WH02,Chennai,Hyderabad,Ecom Express,Mini Truck,9.56,1854,3531.92,In Transit
+SHP004026,ORD104026,2026-07-05,Delhi_WH01,Lucknow,Mumbai,DHL,Bike,9.45,1494,2882.6,Returned
+SHP004027,ORD104027,2026-07-05,Bengaluru_WH03,Delhi,Bengaluru,FedEx,Truck,35.26,690,1745.12,Delayed
+SHP004028,ORD104028,2026-07-05,Bengaluru_WH03,Delhi,Ahmedabad,DHL,Truck,0.57,1602,2970.44,Cancelled
+SHP004029,ORD104029,2026-07-05,Delhi_WH01,Pune,Kolkata,Delhivery,Mini Truck,30.73,1989,4028.96,Delivered
+SHP004030,ORD104030,2026-07-05,Chennai_WH05,Delhi,Jaipur,DHL,Van,38.4,114,746.0,Delivered
+SHP004031,ORD104031,2026-07-05,Mumbai_WH02,Pune,Lucknow,DHL,Van,32.79,2377,4752.08,Delivered
+SHP004032,ORD104032,2026-07-05,Mumbai_WH02,Bengaluru,Ahmedabad,FedEx,Truck,18.89,702,1570.28,Delivered
+SHP004033,ORD104033,2026-07-05,Mumbai_WH02,Hyderabad,Ahmedabad,Ecom Express,Truck,17.6,1390,2793.2,In Transit
+SHP004034,ORD104034,2026-07-05,Chennai_WH05,Pune,Lucknow,Blue Dart,Mini Truck,34.69,1985,4069.28,Delivered
+SHP004035,ORD104035,2026-07-05,Delhi_WH01,Mumbai,Delhi,DHL,Mini Truck,7.21,700,1426.52,In Transit
+SHP004036,ORD104036,2026-07-05,Delhi_WH01,Pune,Mumbai,FedEx,Van,47.09,654,1822.28,In Transit
+SHP004037,ORD104037,2026-07-05,Mumbai_WH02,Pune,Jaipur,Ecom Express,Bike,31.77,2486,4936.04,In Transit
+SHP004038,ORD104038,2026-07-05,Bengaluru_WH03,Lucknow,Delhi,DHL,Truck,26.76,371,1068.92,Delivered
+SHP004039,ORD104039,2026-07-05,Chennai_WH05,Jaipur,Hyderabad,Delhivery,Truck,14.2,2254,4307.6,Delivered
+SHP004040,ORD104040,2026-07-05,Bengaluru_WH03,Lucknow,Bengaluru,Ecom Express,Bike,33.46,537,1448.12,Delivered
+SHP004041,ORD104041,2026-07-05,Bengaluru_WH03,Bengaluru,Chennai,FedEx,Bike,26.42,293,924.44,Delayed
+SHP004042,ORD104042,2026-07-05,Mumbai_WH02,Jaipur,Mumbai,FedEx,Mini Truck,0.8,723,1391.0,Delivered
+SHP004043,ORD104043,2026-07-05,Mumbai_WH02,Delhi,Bengaluru,FedEx,Truck,1.63,1070,2025.56,Delivered
+SHP004044,ORD104044,2026-07-05,Delhi_WH01,Pune,Lucknow,Ecom Express,Mini Truck,43.58,159,889.16,In Transit
+SHP004045,ORD104045,2026-07-05,Mumbai_WH02,Chennai,Hyderabad,Ecom Express,Mini Truck,7.1,702,1428.8,Delivered
+SHP004046,ORD104046,2026-07-05,Mumbai_WH02,Bengaluru,Mumbai,Blue Dart,Van,9.06,1229,2400.92,Returned
+SHP004047,ORD104047,2026-07-05,Hyderabad_WH04,Chennai,Ahmedabad,FedEx,Van,28.63,2233,4442.96,Delivered
+SHP004048,ORD104048,2026-07-05,Bengaluru_WH03,Lucknow,Mumbai,Blue Dart,Van,9.88,1208,2372.96,Delivered
+SHP004049,ORD104049,2026-07-05,Mumbai_WH02,Pune,Ahmedabad,Delhivery,Bike,13.82,868,1808.24,In Transit
+SHP004050,ORD104050,2026-07-05,Hyderabad_WH04,Lucknow,Hyderabad,Delhivery,Van,14.44,375,928.28,Delivered
+SHP004051,ORD104051,2026-07-05,Mumbai_WH02,Bengaluru,Delhi,DHL,Bike,24.89,1291,2702.48,Delivered
+SHP004052,ORD104052,2026-07-05,Hyderabad_WH04,Jaipur,Ahmedabad,Blue Dart,Bike,16.28,1857,3617.96,Delivered
+SHP004053,ORD104053,2026-07-05,Bengaluru_WH03,Jaipur,Kolkata,Ecom Express,Mini Truck,5.22,570,1168.64,Delivered
+SHP004054,ORD104054,2026-07-05,Hyderabad_WH04,Jaipur,Hyderabad,FedEx,Bike,41.9,697,1837.4,In Transit
+SHP004055,ORD104055,2026-07-05,Delhi_WH01,Chennai,Hyderabad,DHL,Mini Truck,24.9,1418,2931.2,Delivered
+SHP004056,ORD104056,2026-07-05,Mumbai_WH02,Ahmedabad,Lucknow,FedEx,Bike,34.45,483,1362.8,Delivered
+SHP004057,ORD104057,2026-07-05,Bengaluru_WH03,Hyderabad,Ahmedabad,Blue Dart,Bike,36.33,604,1603.16,Delivered
+SHP004058,ORD104058,2026-07-05,Bengaluru_WH03,Kolkata,Chennai,Blue Dart,Truck,10.18,2466,4640.96,Delivered
+SHP004059,ORD104059,2026-07-05,Chennai_WH05,Mumbai,Chennai,Ecom Express,Mini Truck,21.2,626,1461.2,Delivered
+SHP004060,ORD104060,2026-07-05,Bengaluru_WH03,Mumbai,Pune,DHL,Mini Truck,20.07,1956,3841.64,Delayed
+SHP004061,ORD104061,2026-07-05,Mumbai_WH02,Kolkata,Bengaluru,Blue Dart,Mini Truck,32.33,506,1378.76,In Transit
+SHP004062,ORD104062,2026-07-05,Delhi_WH01,Delhi,Chennai,Ecom Express,Van,10.92,1129,2243.24,In Transit
+SHP004063,ORD104063,2026-07-05,Hyderabad_WH04,Bengaluru,Kolkata,Ecom Express,Van,26.78,815,1868.36,Delivered
+SHP004064,ORD104064,2026-07-05,Bengaluru_WH03,Pune,Bengaluru,Blue Dart,Truck,43.38,2106,4391.36,Delayed
+SHP004065,ORD104065,2026-07-05,Hyderabad_WH04,Mumbai,Jaipur,Blue Dart,Mini Truck,30.57,2139,4297.04,Delivered
+SHP004066,ORD104066,2026-07-05,Mumbai_WH02,Hyderabad,Bengaluru,Blue Dart,Van,24.72,1773,3568.04,In Transit
+SHP004067,ORD104067,2026-07-05,Bengaluru_WH03,Lucknow,Bengaluru,Delhivery,Van,44.66,929,2288.12,Delivered
+SHP004068,ORD104068,2026-07-05,Hyderabad_WH04,Bengaluru,Jaipur,DHL,Mini Truck,39.63,1945,4056.56,Delivered
+SHP004069,ORD104069,2026-07-05,Chennai_WH05,Kolkata,Mumbai,Blue Dart,Mini Truck,12.74,162,524.48,Delivered
+SHP004070,ORD104070,2026-07-05,Hyderabad_WH04,Jaipur,Pune,FedEx,Bike,22.16,2178,4266.32,Delivered
+SHP004071,ORD104071,2026-07-05,Mumbai_WH02,Ahmedabad,Mumbai,Blue Dart,Bike,14.03,582,1295.96,Returned
+SHP004072,ORD104072,2026-07-05,Hyderabad_WH04,Jaipur,Bengaluru,FedEx,Mini Truck,41.12,260,1041.44,Delivered
+SHP004073,ORD104073,2026-07-05,Mumbai_WH02,Lucknow,Delhi,DHL,Bike,46.2,2422,4994.0,Delivered
+SHP004074,ORD104074,2026-07-05,Bengaluru_WH03,Lucknow,Kolkata,Blue Dart,Truck,18.43,1553,3096.56,Delivered
+SHP004075,ORD104075,2026-07-05,Delhi_WH01,Mumbai,Jaipur,DHL,Bike,48.81,1255,2924.72,Delivered
+SHP004076,ORD104076,2026-07-05,Mumbai_WH02,Lucknow,Bengaluru,Ecom Express,Mini Truck,1.98,1056,2004.56,Delivered
+SHP004077,ORD104077,2026-07-05,Delhi_WH01,Lucknow,Hyderabad,Blue Dart,Van,23.34,804,1807.28,In Transit
+SHP004078,ORD104078,2026-07-05,Delhi_WH01,Kolkata,Hyderabad,Blue Dart,Truck,3.02,263,589.64,Delivered
+SHP004079,ORD104079,2026-07-05,Chennai_WH05,Kolkata,Bengaluru,Ecom Express,Mini Truck,27.84,2402,4737.68,Delivered
+SHP004080,ORD104080,2026-07-05,Mumbai_WH02,Delhi,Mumbai,Ecom Express,Van,47.28,1552,3440.96,Delivered
+SHP004081,ORD104081,2026-07-05,Mumbai_WH02,Pune,Delhi,FedEx,Mini Truck,37.9,1848,3861.2,Delivered
+SHP004082,ORD104082,2026-07-05,Chennai_WH05,Lucknow,Pune,Delhivery,Van,27.67,1608,3306.44,In Transit
+SHP004083,ORD104083,2026-07-05,Mumbai_WH02,Ahmedabad,Pune,Ecom Express,Mini Truck,27.66,115,618.92,Delivered
+SHP004084,ORD104084,2026-07-05,Delhi_WH01,Mumbai,Delhi,FedEx,Mini Truck,12.79,2255,4292.48,Delayed
+SHP004085,ORD104085,2026-07-05,Hyderabad_WH04,Lucknow,Jaipur,Delhivery,Truck,28.56,1468,3065.12,Delivered
+SHP004086,ORD104086,2026-07-05,Delhi_WH01,Delhi,Chennai,Delhivery,Bike,20.68,1114,2333.36,Delayed
+SHP004087,ORD104087,2026-07-05,Chennai_WH05,Bengaluru,Jaipur,DHL,Truck,6.39,1268,2439.08,In Transit
+SHP004088,ORD104088,2026-07-05,Delhi_WH01,Ahmedabad,Pune,FedEx,Bike,47.18,2032,4303.76,Delivered
+SHP004089,ORD104089,2026-07-05,Mumbai_WH02,Hyderabad,Jaipur,FedEx,Mini Truck,8.48,1276,2478.56,Delivered
+SHP004090,ORD104090,2026-07-05,Chennai_WH05,Bengaluru,Kolkata,DHL,Bike,16.92,1942,3778.64,In Transit
+SHP004091,ORD104091,2026-07-05,Bengaluru_WH03,Jaipur,Mumbai,FedEx,Bike,28.68,1008,2238.56,In Transit
+SHP004092,ORD104092,2026-07-05,Bengaluru_WH03,Ahmedabad,Chennai,DHL,Van,7.38,2194,4117.76,In Transit
+SHP004093,ORD104093,2026-07-05,Mumbai_WH02,Jaipur,Lucknow,FedEx,Bike,25.6,1051,2279.0,Delivered
+SHP004094,ORD104094,2026-07-05,Mumbai_WH02,Hyderabad,Mumbai,Ecom Express,Bike,20.55,2436,4711.4,Delivered
+SHP004095,ORD104095,2026-07-05,Mumbai_WH02,Lucknow,Hyderabad,Ecom Express,Mini Truck,31.0,153,727.4,Delivered
+SHP004096,ORD104096,2026-07-05,Delhi_WH01,Hyderabad,Jaipur,DHL,Van,38.14,1670,3543.68,In Transit
+SHP004097,ORD104097,2026-07-05,Mumbai_WH02,Ahmedabad,Pune,DHL,Mini Truck,18.17,65,415.04,Delivered
+SHP004098,ORD104098,2026-07-05,Mumbai_WH02,Chennai,Kolkata,Blue Dart,Truck,41.86,375,1257.32,Delivered
+SHP004099,ORD104099,2026-07-05,Hyderabad_WH04,Chennai,Lucknow,Delhivery,Mini Truck,35.6,1875,3882.2,Delivered
+SHP004100,ORD104100,2026-07-05,Chennai_WH05,Bengaluru,Ahmedabad,DHL,Van,18.41,314,866.12,In Transit
+SHP004101,ORD104101,2026-07-05,Bengaluru_WH03,Mumbai,Delhi,Delhivery,Bike,4.42,1036,1997.84,In Transit
+SHP004102,ORD104102,2026-07-05,Bengaluru_WH03,Kolkata,Delhi,DHL,Bike,26.14,1719,3487.88,Delivered
+SHP004103,ORD104103,2026-07-05,Chennai_WH05,Hyderabad,Ahmedabad,Blue Dart,Mini Truck,45.97,1051,2523.44,Delivered
+SHP004104,ORD104104,2026-07-05,Hyderabad_WH04,Chennai,Pune,Blue Dart,Van,42.23,2254,4643.96,In Transit
+SHP004105,ORD104105,2026-07-05,Mumbai_WH02,Ahmedabad,Jaipur,Ecom Express,Van,1.43,1546,2879.96,Delivered
+SHP004106,ORD104106,2026-07-05,Bengaluru_WH03,Hyderabad,Ahmedabad,DHL,Bike,2.25,2200,4067.0,In Transit
+SHP004107,ORD104107,2026-07-05,Chennai_WH05,Kolkata,Hyderabad,DHL,Bike,43.78,2105,4394.36,Delivered
+SHP004108,ORD104108,2026-07-05,Chennai_WH05,Mumbai,Delhi,DHL,Bike,3.28,1646,3082.16,Delivered
+SHP004109,ORD104109,2026-07-05,Delhi_WH01,Ahmedabad,Mumbai,DHL,Truck,8.23,1311,2538.56,In Transit
+SHP004110,ORD104110,2026-07-05,Hyderabad_WH04,Mumbai,Jaipur,Delhivery,Truck,48.1,1995,4248.2,Delivered
+SHP004111,ORD104111,2026-07-05,Chennai_WH05,Lucknow,Mumbai,Blue Dart,Truck,24.75,290,899.0,Delivered
+SHP004112,ORD104112,2026-07-05,Bengaluru_WH03,Mumbai,Delhi,DHL,Bike,40.4,1179,2687.0,In Transit
+SHP004113,ORD104113,2026-07-05,Mumbai_WH02,Chennai,Kolkata,Blue Dart,Van,8.75,1092,2150.6,In Transit
+SHP004114,ORD104114,2026-07-05,Mumbai_WH02,Jaipur,Chennai,Ecom Express,Truck,2.01,1949,3612.32,Delivered
+SHP004115,ORD104115,2026-07-05,Mumbai_WH02,Ahmedabad,Chennai,Delhivery,Truck,44.16,1782,3817.52,Delivered
+SHP004116,ORD104116,2026-07-05,Mumbai_WH02,Ahmedabad,Chennai,Delhivery,Van,7.38,301,710.36,In Transit
+SHP004117,ORD104117,2026-07-05,Mumbai_WH02,Mumbai,Pune,Blue Dart,Bike,23.38,1345,2781.56,In Transit
+SHP004118,ORD104118,2026-07-05,Bengaluru_WH03,Delhi,Ahmedabad,Ecom Express,Bike,20.79,1387,2826.08,Delivered
+SHP004119,ORD104119,2026-07-05,Bengaluru_WH03,Delhi,Bengaluru,Delhivery,Bike,7.28,173,478.76,Delivered
+SHP004120,ORD104120,2026-07-05,Chennai_WH05,Delhi,Hyderabad,Blue Dart,Van,41.72,1716,3669.44,Cancelled
+SHP004121,ORD104121,2026-07-05,Mumbai_WH02,Bengaluru,Lucknow,FedEx,Bike,20.28,732,1640.96,In Transit
+SHP004122,ORD104122,2026-07-05,Mumbai_WH02,Mumbai,Chennai,DHL,Bike,37.61,1387,3027.92,In Transit
+SHP004123,ORD104123,2026-07-05,Chennai_WH05,Ahmedabad,Lucknow,DHL,Truck,28.77,1980,3989.24,Delivered
+SHP004124,ORD104124,2026-07-05,Mumbai_WH02,Ahmedabad,Jaipur,Delhivery,Mini Truck,39.55,1615,3461.6,Delivered
+SHP004125,ORD104125,2026-07-05,Delhi_WH01,Hyderabad,Kolkata,Delhivery,Bike,20.65,1024,2171.0,Delivered
+SHP004126,ORD104126,2026-07-05,Chennai_WH05,Chennai,Jaipur,DHL,Van,43.3,1580,3443.6,Delivered
+SHP004127,ORD104127,2026-07-05,Chennai_WH05,Lucknow,Mumbai,Ecom Express,Truck,2.28,195,458.36,Delivered
+SHP004128,ORD104128,2026-07-05,Bengaluru_WH03,Chennai,Ahmedabad,Blue Dart,Mini Truck,4.55,1611,3034.4,Delivered
+SHP004129,ORD104129,2026-07-05,Chennai_WH05,Hyderabad,Delhi,Blue Dart,Truck,20.48,1443,2923.16,Delivered
+SHP004130,ORD104130,2026-07-05,Hyderabad_WH04,Bengaluru,Jaipur,Ecom Express,Van,25.82,917,2040.44,Delivered
+SHP004131,ORD104131,2026-07-05,Bengaluru_WH03,Kolkata,Bengaluru,Blue Dart,Mini Truck,14.86,2302,4401.92,In Transit
+SHP004132,ORD104132,2026-07-05,Chennai_WH05,Jaipur,Pune,Delhivery,Bike,3.79,460,953.48,Delivered
+SHP004133,ORD104133,2026-07-05,Bengaluru_WH03,Jaipur,Pune,FedEx,Van,39.75,1684,3588.2,Delivered
+SHP004134,ORD104134,2026-07-05,Hyderabad_WH04,Jaipur,Chennai,Ecom Express,Van,40.14,2231,4577.48,Delivered
+SHP004135,ORD104135,2026-07-05,Hyderabad_WH04,Delhi,Bengaluru,FedEx,Mini Truck,13.66,2249,4292.12,Delivered
+SHP004136,ORD104136,2026-07-05,Hyderabad_WH04,Lucknow,Chennai,DHL,Mini Truck,31.0,1155,2531.0,Delivered
+SHP004137,ORD104137,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Ecom Express,Bike,20.5,568,1348.4,Delivered
+SHP004138,ORD104138,2026-07-05,Hyderabad_WH04,Ahmedabad,Hyderabad,Blue Dart,Truck,26.59,948,2105.48,Delivered
+SHP004139,ORD104139,2026-07-05,Delhi_WH01,Jaipur,Mumbai,FedEx,Van,26.36,469,1240.52,Delivered
+SHP004140,ORD104140,2026-07-05,Bengaluru_WH03,Pune,Jaipur,Ecom Express,Bike,12.99,1795,3466.88,Delivered
+SHP004141,ORD104141,2026-07-05,Hyderabad_WH04,Hyderabad,Pune,Ecom Express,Bike,8.54,2128,4012.88,In Transit
+SHP004142,ORD104142,2026-07-05,Chennai_WH05,Lucknow,Pune,Delhivery,Mini Truck,44.01,1737,3734.72,Delivered
+SHP004143,ORD104143,2026-07-05,Hyderabad_WH04,Lucknow,Kolkata,Blue Dart,Van,7.15,658,1350.2,In Transit
+SHP004144,ORD104144,2026-07-05,Delhi_WH01,Ahmedabad,Chennai,Blue Dart,Van,33.08,1671,3484.76,Delivered
+SHP004145,ORD104145,2026-07-05,Chennai_WH05,Chennai,Delhi,DHL,Truck,29.4,1522,3172.4,Delivered
+SHP004146,ORD104146,2026-07-05,Chennai_WH05,Ahmedabad,Chennai,DHL,Mini Truck,3.0,122,335.6,Delivered
+SHP004147,ORD104147,2026-07-05,Bengaluru_WH03,Hyderabad,Jaipur,Ecom Express,Mini Truck,25.44,736,1710.08,Delivered
+SHP004148,ORD104148,2026-07-05,Mumbai_WH02,Jaipur,Bengaluru,FedEx,Truck,8.16,705,1446.92,Delivered
+SHP004149,ORD104149,2026-07-05,Delhi_WH01,Ahmedabad,Delhi,Delhivery,Van,38.85,217,936.8,Delivered
+SHP004150,ORD104150,2026-07-05,Bengaluru_WH03,Pune,Lucknow,Blue Dart,Van,45.84,2125,4455.08,In Transit
+SHP004151,ORD104151,2026-07-05,Bengaluru_WH03,Kolkata,Ahmedabad,Ecom Express,Truck,40.07,2242,4596.44,Delivered
+SHP004152,ORD104152,2026-07-05,Hyderabad_WH04,Chennai,Bengaluru,FedEx,Bike,44.48,1291,2937.56,Delayed
+SHP004153,ORD104153,2026-07-05,Delhi_WH01,Delhi,Mumbai,Blue Dart,Mini Truck,7.21,2269,4250.72,Delivered
+SHP004154,ORD104154,2026-07-05,Bengaluru_WH03,Mumbai,Jaipur,Delhivery,Van,29.24,680,1654.88,Delivered
+SHP004155,ORD104155,2026-07-05,Hyderabad_WH04,Bengaluru,Jaipur,Ecom Express,Mini Truck,5.52,2124,3969.44,In Transit
+SHP004156,ORD104156,2026-07-05,Mumbai_WH02,Kolkata,Mumbai,DHL,Mini Truck,48.45,2257,4724.0,Delivered
+SHP004157,ORD104157,2026-07-05,Bengaluru_WH03,Pune,Ahmedabad,Ecom Express,Truck,17.75,1091,2256.8,In Transit
+SHP004158,ORD104158,2026-07-05,Bengaluru_WH03,Lucknow,Jaipur,FedEx,Bike,14.58,549,1243.16,Delivered
+SHP004159,ORD104159,2026-07-05,Hyderabad_WH04,Chennai,Kolkata,DHL,Truck,9.42,2267,4273.64,Returned
+SHP004160,ORD104160,2026-07-05,Hyderabad_WH04,Kolkata,Delhi,FedEx,Van,12.58,272,720.56,Delivered
+SHP004161,ORD104161,2026-07-05,Hyderabad_WH04,Delhi,Pune,Delhivery,Truck,30.31,780,1847.72,In Transit
+SHP004162,ORD104162,2026-07-05,Delhi_WH01,Ahmedabad,Lucknow,Delhivery,Bike,8.02,389,876.44,In Transit
+SHP004163,ORD104163,2026-07-05,Mumbai_WH02,Kolkata,Pune,Ecom Express,Mini Truck,25.35,2331,4580.0,Delivered
+SHP004164,ORD104164,2026-07-05,Hyderabad_WH04,Jaipur,Bengaluru,DHL,Mini Truck,10.45,1521,2943.2,Delivered
+SHP004165,ORD104165,2026-07-05,Delhi_WH01,Lucknow,Bengaluru,Delhivery,Bike,5.72,2427,4517.24,Delivered
+SHP004166,ORD104166,2026-07-05,Delhi_WH01,Lucknow,Pune,Ecom Express,Bike,3.5,105,311.0,Delivered
+SHP004167,ORD104167,2026-07-05,Bengaluru_WH03,Hyderabad,Pune,FedEx,Mini Truck,9.53,1812,3455.96,Delivered
+SHP004168,ORD104168,2026-07-05,Delhi_WH01,Ahmedabad,Lucknow,Ecom Express,Bike,31.0,1165,2549.0,Delivered
+SHP004169,ORD104169,2026-07-05,Bengaluru_WH03,Mumbai,Pune,Ecom Express,Van,15.85,2459,4696.4,Delivered
+SHP004170,ORD104170,2026-07-05,Hyderabad_WH04,Hyderabad,Ahmedabad,DHL,Van,38.28,1156,2620.16,Delivered
+SHP004171,ORD104171,2026-07-05,Mumbai_WH02,Delhi,Ahmedabad,Delhivery,Truck,3.18,1228,2328.56,Delivered
+SHP004172,ORD104172,2026-07-05,Delhi_WH01,Kolkata,Jaipur,FedEx,Truck,39.77,893,2164.64,Delivered
+SHP004173,ORD104173,2026-07-05,Chennai_WH05,Delhi,Mumbai,DHL,Van,22.93,729,1667.36,Cancelled
+SHP004174,ORD104174,2026-07-05,Delhi_WH01,Lucknow,Mumbai,Ecom Express,Bike,32.78,877,2051.96,Delivered
+SHP004175,ORD104175,2026-07-05,Bengaluru_WH03,Hyderabad,Jaipur,Blue Dart,Bike,45.7,1015,2455.4,Delivered
+SHP004176,ORD104176,2026-07-05,Mumbai_WH02,Mumbai,Kolkata,DHL,Truck,40.52,1723,3667.64,In Transit
+SHP004177,ORD104177,2026-07-05,Mumbai_WH02,Mumbai,Pune,Ecom Express,Mini Truck,5.62,1121,2165.24,Delivered
+SHP004178,ORD104178,2026-07-05,Mumbai_WH02,Chennai,Pune,Blue Dart,Truck,5.57,1009,1963.04,Delivered
+SHP004179,ORD104179,2026-07-05,Delhi_WH01,Chennai,Lucknow,FedEx,Bike,36.99,1801,3765.68,In Transit
+SHP004180,ORD104180,2026-07-05,Delhi_WH01,Hyderabad,Lucknow,Ecom Express,Truck,17.78,648,1459.76,Delivered
+SHP004181,ORD104181,2026-07-05,Bengaluru_WH03,Ahmedabad,Bengaluru,Ecom Express,Van,32.12,1271,2753.24,In Transit
+SHP004182,ORD104182,2026-07-05,Hyderabad_WH04,Ahmedabad,Pune,FedEx,Bike,24.07,1702,3432.44,Delivered
+SHP004183,ORD104183,2026-07-05,Hyderabad_WH04,Mumbai,Delhi,FedEx,Van,31.68,2152,4333.76,Delivered
+SHP004184,ORD104184,2026-07-05,Delhi_WH01,Mumbai,Ahmedabad,FedEx,Bike,10.54,2312,4368.08,Delayed
+SHP004185,ORD104185,2026-07-05,Mumbai_WH02,Pune,Lucknow,DHL,Truck,34.85,280,1002.2,Delivered
+SHP004186,ORD104186,2026-07-05,Chennai_WH05,Jaipur,Chennai,DHL,Truck,17.5,1276,2586.8,In Transit
+SHP004187,ORD104187,2026-07-05,Chennai_WH05,Lucknow,Mumbai,Blue Dart,Van,8.76,224,588.32,Delivered
+SHP004188,ORD104188,2026-07-05,Mumbai_WH02,Mumbai,Pune,Delhivery,Bike,20.13,428,1091.96,Delivered
+SHP004189,ORD104189,2026-07-05,Bengaluru_WH03,Delhi,Ahmedabad,Delhivery,Bike,18.03,531,1252.16,Delayed
+SHP004190,ORD104190,2026-07-05,Delhi_WH01,Mumbai,Jaipur,DHL,Van,43.63,2374,4876.76,In Transit
+SHP004191,ORD104191,2026-07-05,Hyderabad_WH04,Pune,Hyderabad,DHL,Van,8.77,922,1844.84,Delivered
+SHP004192,ORD104192,2026-07-05,Chennai_WH05,Ahmedabad,Hyderabad,DHL,Mini Truck,10.08,2125,4025.96,Delivered
+SHP004193,ORD104193,2026-07-05,Delhi_WH01,Delhi,Chennai,Delhivery,Truck,47.48,1921,4107.56,Delivered
+SHP004194,ORD104194,2026-07-05,Mumbai_WH02,Kolkata,Bengaluru,DHL,Van,49.86,672,1887.92,In Transit
+SHP004195,ORD104195,2026-07-05,Chennai_WH05,Hyderabad,Pune,DHL,Truck,26.87,1738,3530.84,In Transit
+SHP004196,ORD104196,2026-07-05,Hyderabad_WH04,Kolkata,Delhi,Delhivery,Bike,37.62,2008,4145.84,Delayed
+SHP004197,ORD104197,2026-07-05,Delhi_WH01,Chennai,Hyderabad,Delhivery,Truck,37.16,246,968.72,Delivered
+SHP004198,ORD104198,2026-07-05,Mumbai_WH02,Jaipur,Chennai,FedEx,Truck,2.59,876,1687.88,Delivered
+SHP004199,ORD104199,2026-07-05,Hyderabad_WH04,Mumbai,Delhi,DHL,Mini Truck,30.57,2094,4216.04,Delivered
+SHP004200,ORD104200,2026-07-05,Delhi_WH01,Ahmedabad,Jaipur,Blue Dart,Van,38.0,115,743.0,Delivered
+SHP004201,ORD104201,2026-07-05,Delhi_WH01,Delhi,Bengaluru,DHL,Van,34.89,469,1342.88,Delivered
+SHP004202,ORD104202,2026-07-05,Mumbai_WH02,Hyderabad,Chennai,DHL,Van,41.5,1046,2460.8,Delivered
+SHP004203,ORD104203,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Delhivery,Truck,15.84,603,1355.48,Delayed
+SHP004204,ORD104204,2026-07-05,Delhi_WH01,Mumbai,Kolkata,Delhivery,Van,47.3,136,892.4,Delivered
+SHP004205,ORD104205,2026-07-05,Chennai_WH05,Kolkata,Bengaluru,Blue Dart,Van,38.11,1591,3401.12,In Transit
+SHP004206,ORD104206,2026-07-05,Delhi_WH01,Kolkata,Pune,DHL,Bike,38.7,374,1217.6,In Transit
+SHP004207,ORD104207,2026-07-05,Mumbai_WH02,Bengaluru,Ahmedabad,FedEx,Van,10.57,157,489.44,Delivered
+SHP004208,ORD104208,2026-07-05,Hyderabad_WH04,Ahmedabad,Jaipur,Ecom Express,Bike,47.19,1102,2629.88,In Transit
+SHP004209,ORD104209,2026-07-05,Chennai_WH05,Hyderabad,Ahmedabad,Ecom Express,Mini Truck,40.75,812,2030.6,Delivered
+SHP004210,ORD104210,2026-07-05,Delhi_WH01,Pune,Lucknow,FedEx,Van,5.68,100,328.16,In Transit
+SHP004211,ORD104211,2026-07-05,Hyderabad_WH04,Jaipur,Hyderabad,FedEx,Mini Truck,40.07,1363,3014.24,Delivered
+SHP004212,ORD104212,2026-07-05,Hyderabad_WH04,Delhi,Ahmedabad,FedEx,Mini Truck,24.27,1447,2975.84,Delivered
+SHP004213,ORD104213,2026-07-05,Chennai_WH05,Hyderabad,Jaipur,Blue Dart,Bike,42.98,218,988.16,Returned
+SHP004214,ORD104214,2026-07-05,Hyderabad_WH04,Ahmedabad,Chennai,Delhivery,Van,48.51,611,1761.92,Delivered
+SHP004215,ORD104215,2026-07-05,Delhi_WH01,Delhi,Pune,DHL,Truck,33.53,1715,3569.36,In Transit
+SHP004216,ORD104216,2026-07-05,Mumbai_WH02,Delhi,Chennai,Delhivery,Van,18.72,2449,4712.84,In Transit
+SHP004217,ORD104217,2026-07-05,Chennai_WH05,Pune,Ahmedabad,Blue Dart,Truck,36.14,903,2139.08,In Transit
+SHP004218,ORD104218,2026-07-05,Mumbai_WH02,Chennai,Kolkata,Delhivery,Mini Truck,17.61,2461,4721.12,In Transit
+SHP004219,ORD104219,2026-07-05,Hyderabad_WH04,Kolkata,Pune,FedEx,Van,27.4,195,759.8,In Transit
+SHP004220,ORD104220,2026-07-05,Delhi_WH01,Pune,Lucknow,Blue Dart,Bike,13.82,2452,4659.44,Delivered
+SHP004221,ORD104221,2026-07-05,Mumbai_WH02,Hyderabad,Jaipur,DHL,Mini Truck,9.48,2201,4155.56,Delivered
+SHP004222,ORD104222,2026-07-05,Chennai_WH05,Lucknow,Ahmedabad,Blue Dart,Bike,10.57,2261,4276.64,Delivered
+SHP004223,ORD104223,2026-07-05,Bengaluru_WH03,Bengaluru,Chennai,Ecom Express,Mini Truck,0.94,1042,1966.88,Delivered
+SHP004224,ORD104224,2026-07-05,Bengaluru_WH03,Chennai,Lucknow,Ecom Express,Mini Truck,42.84,2144,4453.28,Delayed
+SHP004225,ORD104225,2026-07-05,Delhi_WH01,Hyderabad,Mumbai,DHL,Bike,11.55,65,335.6,Delivered
+SHP004226,ORD104226,2026-07-05,Hyderabad_WH04,Delhi,Bengaluru,DHL,Mini Truck,34.8,1930,3971.6,Delivered
+SHP004227,ORD104227,2026-07-05,Hyderabad_WH04,Ahmedabad,Hyderabad,Ecom Express,Bike,31.49,1630,3391.88,In Transit
+SHP004228,ORD104228,2026-07-05,Chennai_WH05,Jaipur,Lucknow,DHL,Bike,38.22,1866,3897.44,Delivered
+SHP004229,ORD104229,2026-07-05,Hyderabad_WH04,Pune,Lucknow,FedEx,Van,20.0,1319,2694.2,Delivered
+SHP004230,ORD104230,2026-07-05,Chennai_WH05,Delhi,Mumbai,FedEx,Bike,1.28,1090,2057.36,In Transit
+SHP004231,ORD104231,2026-07-05,Hyderabad_WH04,Hyderabad,Lucknow,FedEx,Van,22.07,2451,4756.64,Delivered
+SHP004232,ORD104232,2026-07-05,Delhi_WH01,Lucknow,Mumbai,Ecom Express,Truck,43.9,1061,2516.6,In Transit
+SHP004233,ORD104233,2026-07-05,Hyderabad_WH04,Lucknow,Mumbai,FedEx,Van,3.68,1793,3351.56,In Transit
+SHP004234,ORD104234,2026-07-05,Delhi_WH01,Ahmedabad,Mumbai,Blue Dart,Bike,48.96,860,2215.52,Delivered
+SHP004235,ORD104235,2026-07-05,Bengaluru_WH03,Hyderabad,Kolkata,Delhivery,Van,18.7,640,1456.4,In Transit
+SHP004236,ORD104236,2026-07-05,Chennai_WH05,Pune,Chennai,FedEx,Bike,47.12,2462,5077.04,Delivered
+SHP004237,ORD104237,2026-07-05,Delhi_WH01,Mumbai,Pune,Delhivery,Mini Truck,23.06,1666,3355.52,Delivered
+SHP004238,ORD104238,2026-07-05,Chennai_WH05,Hyderabad,Lucknow,DHL,Van,27.97,1173,2527.04,In Transit
+SHP004239,ORD104239,2026-07-05,Chennai_WH05,Bengaluru,Mumbai,DHL,Mini Truck,43.73,1196,2757.56,Delivered
+SHP004240,ORD104240,2026-07-05,Bengaluru_WH03,Mumbai,Jaipur,Delhivery,Bike,34.55,1263,2768.0,Returned
+SHP004241,ORD104241,2026-07-05,Delhi_WH01,Kolkata,Chennai,DHL,Truck,33.08,1234,2698.16,Delivered
+SHP004242,ORD104242,2026-07-05,Delhi_WH01,Jaipur,Hyderabad,Blue Dart,Truck,47.13,1296,2978.36,Delivered
+SHP004243,ORD104243,2026-07-05,Bengaluru_WH03,Hyderabad,Kolkata,DHL,Van,32.04,795,1895.48,In Transit
+SHP004244,ORD104244,2026-07-05,Chennai_WH05,Hyderabad,Pune,Blue Dart,Truck,42.82,1600,3473.84,In Transit
+SHP004245,ORD104245,2026-07-05,Mumbai_WH02,Bengaluru,Pune,Blue Dart,Mini Truck,43.08,1285,2909.96,Delivered
+SHP004246,ORD104246,2026-07-05,Chennai_WH05,Delhi,Jaipur,Delhivery,Mini Truck,2.57,1019,1945.04,Cancelled
+SHP004247,ORD104247,2026-07-05,Bengaluru_WH03,Kolkata,Lucknow,Blue Dart,Bike,0.5,1638,3034.4,Delivered
+SHP004248,ORD104248,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Blue Dart,Van,46.62,638,1787.84,Delivered
+SHP004249,ORD104249,2026-07-05,Delhi_WH01,Kolkata,Ahmedabad,FedEx,Mini Truck,8.66,2029,3836.12,Delivered
+SHP004250,ORD104250,2026-07-05,Delhi_WH01,Bengaluru,Jaipur,Delhivery,Truck,43.05,1318,2969.0,Delivered
+SHP004251,ORD104251,2026-07-05,Hyderabad_WH04,Delhi,Pune,FedEx,Mini Truck,33.14,1351,2909.48,Delivered
+SHP004252,ORD104252,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Blue Dart,Mini Truck,48.79,168,967.88,Delivered
+SHP004253,ORD104253,2026-07-05,Mumbai_WH02,Ahmedabad,Lucknow,Delhivery,Van,7.05,947,1869.2,Delivered
+SHP004254,ORD104254,2026-07-05,Chennai_WH05,Pune,Chennai,FedEx,Van,47.36,1282,2955.92,Delivered
+SHP004255,ORD104255,2026-07-05,Chennai_WH05,Kolkata,Hyderabad,Delhivery,Van,11.76,1306,2571.92,In Transit
+SHP004256,ORD104256,2026-07-05,Delhi_WH01,Chennai,Jaipur,Blue Dart,Bike,21.55,1718,3431.0,Delivered
+SHP004257,ORD104257,2026-07-05,Chennai_WH05,Jaipur,Bengaluru,Blue Dart,Truck,2.75,1507,2825.6,Delivered
+SHP004258,ORD104258,2026-07-05,Chennai_WH05,Chennai,Ahmedabad,FedEx,Truck,29.16,1196,2582.72,Delivered
+SHP004259,ORD104259,2026-07-05,Mumbai_WH02,Kolkata,Mumbai,Blue Dart,Mini Truck,14.2,258,714.8,Delivered
+SHP004260,ORD104260,2026-07-05,Mumbai_WH02,Lucknow,Ahmedabad,Ecom Express,Bike,37.9,214,920.0,Delivered
+SHP004261,ORD104261,2026-07-05,Hyderabad_WH04,Ahmedabad,Chennai,FedEx,Bike,37.26,1876,3903.92,Delivered
+SHP004262,ORD104262,2026-07-05,Mumbai_WH02,Hyderabad,Kolkata,DHL,Van,47.97,248,1102.04,Delivered
+SHP004263,ORD104263,2026-07-05,Hyderabad_WH04,Lucknow,Mumbai,Ecom Express,Truck,45.02,1790,3842.24,Delivered
+SHP004264,ORD104264,2026-07-05,Hyderabad_WH04,Kolkata,Jaipur,DHL,Mini Truck,35.98,322,1091.36,Delivered
+SHP004265,ORD104265,2026-07-05,Chennai_WH05,Hyderabad,Delhi,Ecom Express,Mini Truck,30.33,2108,4238.36,Delivered
+SHP004266,ORD104266,2026-07-05,Mumbai_WH02,Lucknow,Delhi,Blue Dart,Truck,24.01,1576,3204.92,Returned
+SHP004267,ORD104267,2026-07-05,Delhi_WH01,Ahmedabad,Chennai,Blue Dart,Mini Truck,27.35,2124,4231.4,Delivered
+SHP004268,ORD104268,2026-07-05,Chennai_WH05,Kolkata,Lucknow,DHL,Mini Truck,1.69,622,1219.88,Delivered
+SHP004269,ORD104269,2026-07-05,Bengaluru_WH03,Lucknow,Pune,FedEx,Van,7.9,194,524.0,Delivered
+SHP004270,ORD104270,2026-07-05,Hyderabad_WH04,Delhi,Kolkata,Delhivery,Truck,42.37,989,2368.64,Delivered
+SHP004271,ORD104271,2026-07-05,Mumbai_WH02,Lucknow,Pune,DHL,Mini Truck,30.78,64,564.56,Delivered
+SHP004272,ORD104272,2026-07-05,Hyderabad_WH04,Kolkata,Chennai,Blue Dart,Truck,5.65,497,1042.4,Delivered
+SHP004273,ORD104273,2026-07-05,Bengaluru_WH03,Ahmedabad,Jaipur,FedEx,Mini Truck,19.56,58,419.12,Delivered
+SHP004274,ORD104274,2026-07-05,Bengaluru_WH03,Bengaluru,Pune,FedEx,Truck,43.97,1951,4119.44,Delivered
+SHP004275,ORD104275,2026-07-05,Chennai_WH05,Bengaluru,Pune,DHL,Bike,20.3,1322,2703.2,Delivered
+SHP004276,ORD104276,2026-07-05,Bengaluru_WH03,Jaipur,Ahmedabad,DHL,Truck,43.7,219,998.6,Delivered
+SHP004277,ORD104277,2026-07-05,Chennai_WH05,Mumbai,Kolkata,Delhivery,Bike,4.13,186,464.36,Delivered
+SHP004278,ORD104278,2026-07-05,Delhi_WH01,Bengaluru,Hyderabad,FedEx,Truck,23.25,477,1217.6,Delivered
+SHP004279,ORD104279,2026-07-05,Delhi_WH01,Chennai,Hyderabad,DHL,Truck,14.03,2423,4609.76,Delivered
+SHP004280,ORD104280,2026-07-05,Delhi_WH01,Pune,Mumbai,Blue Dart,Bike,15.24,2454,4680.08,Delivered
+SHP004281,ORD104281,2026-07-05,Hyderabad_WH04,Mumbai,Chennai,Blue Dart,Bike,25.0,1880,3764.0,Delayed
+SHP004282,ORD104282,2026-07-05,Hyderabad_WH04,Chennai,Hyderabad,Ecom Express,Truck,2.41,577,1147.52,Delivered
+SHP004283,ORD104283,2026-07-05,Delhi_WH01,Jaipur,Lucknow,Blue Dart,Bike,5.08,1951,3652.76,In Transit
+SHP004284,ORD104284,2026-07-05,Bengaluru_WH03,Mumbai,Jaipur,Delhivery,Bike,18.34,1491,2983.88,In Transit
+SHP004285,ORD104285,2026-07-05,Chennai_WH05,Lucknow,Chennai,Delhivery,Mini Truck,29.19,184,761.48,Delivered
+SHP004286,ORD104286,2026-07-05,Chennai_WH05,Chennai,Lucknow,Delhivery,Bike,39.95,1773,3750.8,Delivered
+SHP004287,ORD104287,2026-07-05,Mumbai_WH02,Bengaluru,Kolkata,Ecom Express,Bike,0.63,1136,2132.36,In Transit
+SHP004288,ORD104288,2026-07-05,Chennai_WH05,Hyderabad,Jaipur,FedEx,Truck,19.0,745,1649.0,Delivered
+SHP004289,ORD104289,2026-07-05,Mumbai_WH02,Mumbai,Ahmedabad,FedEx,Bike,36.66,381,1205.72,Delivered
+SHP004290,ORD104290,2026-07-05,Hyderabad_WH04,Lucknow,Kolkata,DHL,Van,39.39,649,1720.88,In Transit
+SHP004291,ORD104291,2026-07-05,Chennai_WH05,Kolkata,Hyderabad,Blue Dart,Bike,19.23,1609,3206.96,Cancelled
+SHP004292,ORD104292,2026-07-05,Bengaluru_WH03,Hyderabad,Pune,Delhivery,Truck,3.82,253,581.24,Cancelled
+SHP004293,ORD104293,2026-07-05,Mumbai_WH02,Delhi,Ahmedabad,FedEx,Bike,24.55,2405,4703.6,Delivered
+SHP004294,ORD104294,2026-07-05,Chennai_WH05,Bengaluru,Mumbai,Ecom Express,Bike,22.44,542,1324.88,Delivered
+SHP004295,ORD104295,2026-07-05,Chennai_WH05,Delhi,Pune,FedEx,Mini Truck,7.88,1727,3283.16,Delivered
+SHP004296,ORD104296,2026-07-05,Bengaluru_WH03,Jaipur,Hyderabad,Blue Dart,Mini Truck,22.29,525,1292.48,Delivered
+SHP004297,ORD104297,2026-07-05,Mumbai_WH02,Lucknow,Chennai,Blue Dart,Van,1.39,459,922.88,Delivered
+SHP004298,ORD104298,2026-07-05,Delhi_WH01,Ahmedabad,Bengaluru,Ecom Express,Bike,10.92,1346,2633.84,Delivered
+SHP004299,ORD104299,2026-07-05,Delhi_WH01,Bengaluru,Ahmedabad,Ecom Express,Van,29.31,1708,3506.12,Delivered
+SHP004300,ORD104300,2026-07-05,Delhi_WH01,Chennai,Pune,FedEx,Truck,37.58,2298,4667.36,In Transit
+SHP004301,ORD104301,2026-07-05,Hyderabad_WH04,Ahmedabad,Mumbai,Ecom Express,Van,45.55,1853,3962.0,Delivered
+SHP004302,ORD104302,2026-07-05,Chennai_WH05,Ahmedabad,Delhi,Blue Dart,Bike,48.24,2381,4944.68,Delivered
+SHP004303,ORD104303,2026-07-05,Delhi_WH01,Mumbai,Lucknow,FedEx,Mini Truck,6.34,2420,4512.08,Delivered
+SHP004304,ORD104304,2026-07-05,Delhi_WH01,Mumbai,Chennai,Delhivery,Bike,45.21,2019,4256.72,Delivered
+SHP004305,ORD104305,2026-07-05,Hyderabad_WH04,Delhi,Mumbai,FedEx,Mini Truck,46.93,2037,4309.76,Delivered
+SHP004306,ORD104306,2026-07-05,Chennai_WH05,Hyderabad,Lucknow,FedEx,Mini Truck,1.33,1098,2072.36,Delivered
+SHP004307,ORD104307,2026-07-05,Chennai_WH05,Jaipur,Bengaluru,FedEx,Truck,4.0,1168,2230.4,Delivered
+SHP004308,ORD104308,2026-07-05,Chennai_WH05,Bengaluru,Kolkata,Blue Dart,Truck,21.5,1494,3027.2,Delivered
+SHP004309,ORD104309,2026-07-05,Chennai_WH05,Chennai,Hyderabad,DHL,Van,20.42,2271,4412.84,In Transit
+SHP004310,ORD104310,2026-07-05,Delhi_WH01,Lucknow,Chennai,FedEx,Bike,23.0,806,1806.8,Delivered
+SHP004311,ORD104311,2026-07-05,Delhi_WH01,Hyderabad,Pune,FedEx,Truck,28.39,2054,4117.88,In Transit
+SHP004312,ORD104312,2026-07-05,Chennai_WH05,Pune,Kolkata,Blue Dart,Van,24.09,1099,2347.28,Delivered
+SHP004313,ORD104313,2026-07-05,Hyderabad_WH04,Ahmedabad,Hyderabad,DHL,Van,44.27,2186,4546.04,Delivered
+SHP004314,ORD104314,2026-07-05,Delhi_WH01,Mumbai,Jaipur,Delhivery,Van,36.61,1411,3059.12,Delivered
+SHP004315,ORD104315,2026-07-05,Mumbai_WH02,Jaipur,Hyderabad,Blue Dart,Bike,41.97,1919,4037.84,Delivered
+SHP004316,ORD104316,2026-07-05,Hyderabad_WH04,Jaipur,Delhi,Blue Dart,Mini Truck,35.81,1013,2333.12,Delayed
+SHP004317,ORD104317,2026-07-05,Bengaluru_WH03,Kolkata,Bengaluru,Delhivery,Van,6.57,1751,3310.64,Delivered
+SHP004318,ORD104318,2026-07-05,Hyderabad_WH04,Bengaluru,Jaipur,FedEx,Truck,22.26,2256,4407.92,Delivered
+SHP004319,ORD104319,2026-07-05,Mumbai_WH02,Pune,Hyderabad,Delhivery,Van,2.51,2288,4228.52,In Transit
+SHP004320,ORD104320,2026-07-05,Delhi_WH01,Pune,Chennai,DHL,Bike,47.23,1554,3443.96,Delivered
+SHP004321,ORD104321,2026-07-05,Bengaluru_WH03,Delhi,Chennai,Blue Dart,Mini Truck,15.78,2404,4596.56,Delivered
+SHP004322,ORD104322,2026-07-05,Hyderabad_WH04,Mumbai,Delhi,DHL,Mini Truck,22.3,922,2007.2,In Transit
+SHP004323,ORD104323,2026-07-05,Chennai_WH05,Ahmedabad,Kolkata,Blue Dart,Van,19.3,2107,4104.2,In Transit
+SHP004324,ORD104324,2026-07-05,Mumbai_WH02,Lucknow,Hyderabad,DHL,Bike,9.15,784,1601.0,Delivered
+SHP004325,ORD104325,2026-07-05,Mumbai_WH02,Pune,Chennai,FedEx,Truck,20.94,1385,2824.28,In Transit
+SHP004326,ORD104326,2026-07-05,Mumbai_WH02,Kolkata,Jaipur,FedEx,Van,12.07,2445,4625.84,In Transit
+SHP004327,ORD104327,2026-07-05,Mumbai_WH02,Kolkata,Lucknow,Ecom Express,Van,15.83,1461,2899.76,Delivered
+SHP004328,ORD104328,2026-07-05,Bengaluru_WH03,Mumbai,Kolkata,Delhivery,Van,23.14,1214,2542.88,Delivered
+SHP004329,ORD104329,2026-07-05,Hyderabad_WH04,Ahmedabad,Bengaluru,Delhivery,Truck,29.62,884,2026.64,In Transit
+SHP004330,ORD104330,2026-07-05,Mumbai_WH02,Ahmedabad,Jaipur,FedEx,Truck,45.26,2171,4530.92,Delivered
+SHP004331,ORD104331,2026-07-05,Mumbai_WH02,Pune,Hyderabad,DHL,Van,22.95,333,954.8,Delivered
+SHP004332,ORD104332,2026-07-05,Bengaluru_WH03,Mumbai,Bengaluru,Ecom Express,Bike,9.54,887,1791.08,Delivered
+SHP004333,ORD104333,2026-07-05,Mumbai_WH02,Ahmedabad,Lucknow,FedEx,Bike,20.94,1213,2514.68,In Transit
+SHP004334,ORD104334,2026-07-05,Bengaluru_WH03,Mumbai,Lucknow,Blue Dart,Van,9.34,2492,4677.68,Delivered
+SHP004335,ORD104335,2026-07-05,Hyderabad_WH04,Kolkata,Chennai,FedEx,Bike,40.8,1710,3647.6,Delivered
+SHP004336,ORD104336,2026-07-05,Hyderabad_WH04,Lucknow,Delhi,Delhivery,Van,43.66,189,944.12,Delivered
+SHP004337,ORD104337,2026-07-05,Delhi_WH01,Ahmedabad,Chennai,Ecom Express,Van,8.04,607,1269.08,Delivered
+SHP004338,ORD104338,2026-07-05,Bengaluru_WH03,Ahmedabad,Hyderabad,DHL,Van,31.37,1234,2677.64,Delivered
+SHP004339,ORD104339,2026-07-05,Delhi_WH01,Jaipur,Mumbai,DHL,Bike,3.54,1623,3043.88,Delivered
+SHP004340,ORD104340,2026-07-05,Bengaluru_WH03,Mumbai,Chennai,DHL,Mini Truck,8.75,1477,2843.6,Returned
+SHP004341,ORD104341,2026-07-05,Hyderabad_WH04,Pune,Bengaluru,Blue Dart,Bike,24.33,1690,3413.96,Delivered
+SHP004342,ORD104342,2026-07-05,Chennai_WH05,Ahmedabad,Mumbai,Ecom Express,Mini Truck,27.54,1797,3645.08,Delivered
+SHP004343,ORD104343,2026-07-05,Hyderabad_WH04,Hyderabad,Bengaluru,Delhivery,Truck,42.71,2488,5070.92,Delivered
+SHP004344,ORD104344,2026-07-05,Mumbai_WH02,Kolkata,Bengaluru,DHL,Van,39.91,1126,2585.72,Delivered
+SHP004345,ORD104345,2026-07-05,Chennai_WH05,Hyderabad,Kolkata,FedEx,Mini Truck,28.17,239,848.24,Delivered
+SHP004346,ORD104346,2026-07-05,Delhi_WH01,Jaipur,Chennai,DHL,Van,48.87,263,1139.84,Delivered
+SHP004347,ORD104347,2026-07-05,Delhi_WH01,Kolkata,Bengaluru,DHL,Bike,36.26,326,1101.92,Delivered
+SHP004348,ORD104348,2026-07-05,Mumbai_WH02,Kolkata,Chennai,Blue Dart,Truck,27.95,683,1644.8,Delivered
+SHP004349,ORD104349,2026-07-05,Hyderabad_WH04,Chennai,Pune,FedEx,Mini Truck,32.75,180,797.0,Delivered
+SHP004350,ORD104350,2026-07-05,Bengaluru_WH03,Lucknow,Delhi,Ecom Express,Bike,40.97,611,1671.44,Delivered
+SHP004351,ORD104351,2026-07-05,Hyderabad_WH04,Pune,Delhi,DHL,Bike,31.68,1379,2942.36,Delivered
+SHP004352,ORD104352,2026-07-05,Bengaluru_WH03,Bengaluru,Kolkata,DHL,Van,34.59,1964,4030.28,In Transit
+SHP004353,ORD104353,2026-07-05,Hyderabad_WH04,Pune,Kolkata,DHL,Truck,34.07,1594,3358.04,Delivered
+SHP004354,ORD104354,2026-07-05,Mumbai_WH02,Mumbai,Pune,DHL,Bike,25.08,226,787.76,Delivered
+SHP004355,ORD104355,2026-07-05,Mumbai_WH02,Ahmedabad,Jaipur,FedEx,Mini Truck,2.27,1922,3566.84,Delivered
+SHP004356,ORD104356,2026-07-05,Hyderabad_WH04,Kolkata,Mumbai,Blue Dart,Bike,6.08,1749,3301.16,Delivered
+SHP004357,ORD104357,2026-07-05,Mumbai_WH02,Hyderabad,Lucknow,FedEx,Van,10.29,2432,4581.08,Delivered
+SHP004358,ORD104358,2026-07-05,Chennai_WH05,Mumbai,Pune,Ecom Express,Truck,11.36,181,542.12,In Transit
+SHP004359,ORD104359,2026-07-05,Chennai_WH05,Mumbai,Bengaluru,Blue Dart,Mini Truck,9.26,1071,2118.92,Delivered
+SHP004360,ORD104360,2026-07-05,Delhi_WH01,Bengaluru,Pune,DHL,Mini Truck,33.42,1021,2318.84,In Transit
+SHP004361,ORD104361,2026-07-05,Hyderabad_WH04,Pune,Mumbai,DHL,Mini Truck,43.37,1783,3809.84,In Transit
+SHP004362,ORD104362,2026-07-05,Bengaluru_WH03,Lucknow,Ahmedabad,Delhivery,Van,36.43,977,2275.76,Delivered
+SHP004363,ORD104363,2026-07-05,Hyderabad_WH04,Pune,Chennai,FedEx,Mini Truck,19.76,2057,4019.72,Delayed
+SHP004364,ORD104364,2026-07-05,Hyderabad_WH04,Mumbai,Bengaluru,Ecom Express,Mini Truck,14.57,2022,3894.44,Delivered
+SHP004365,ORD104365,2026-07-05,Bengaluru_WH03,Hyderabad,Pune,Blue Dart,Mini Truck,38.67,1898,3960.44,Delivered
+SHP004366,ORD104366,2026-07-05,Hyderabad_WH04,Pune,Kolkata,FedEx,Van,29.98,497,1334.36,Delivered
+SHP004367,ORD104367,2026-07-05,Hyderabad_WH04,Ahmedabad,Chennai,DHL,Bike,14.97,1909,3695.84,In Transit
+SHP004368,ORD104368,2026-07-05,Delhi_WH01,Pune,Bengaluru,Delhivery,Truck,24.05,1437,2955.2,Cancelled
+SHP004369,ORD104369,2026-07-05,Chennai_WH05,Hyderabad,Delhi,Ecom Express,Bike,8.6,752,1536.8,In Transit
+SHP004370,ORD104370,2026-07-05,Hyderabad_WH04,Jaipur,Lucknow,Ecom Express,Truck,11.08,391,916.76,Delivered
+SHP004371,ORD104371,2026-07-05,Mumbai_WH02,Ahmedabad,Delhi,Delhivery,Van,45.0,1078,2560.4,Delivered
+SHP004372,ORD104372,2026-07-05,Bengaluru_WH03,Chennai,Bengaluru,Ecom Express,Van,27.66,1479,3074.12,Delivered
+SHP004373,ORD104373,2026-07-05,Bengaluru_WH03,Chennai,Kolkata,Delhivery,Bike,24.67,2036,4040.84,In Transit
+SHP004374,ORD104374,2026-07-05,Bengaluru_WH03,Delhi,Ahmedabad,DHL,Truck,38.1,1026,2384.0,In Transit
+SHP004375,ORD104375,2026-07-05,Mumbai_WH02,Chennai,Ahmedabad,Ecom Express,Truck,46.6,475,1494.2,Delivered
+SHP004376,ORD104376,2026-07-05,Bengaluru_WH03,Bengaluru,Delhi,Delhivery,Bike,45.48,1374,3098.96,In Transit
+SHP004377,ORD104377,2026-07-05,Mumbai_WH02,Jaipur,Lucknow,Ecom Express,Mini Truck,41.7,2292,4706.0,Delivered
+SHP004378,ORD104378,2026-07-05,Chennai_WH05,Bengaluru,Chennai,DHL,Van,34.44,947,2197.88,Delivered
+SHP004379,ORD104379,2026-07-05,Hyderabad_WH04,Jaipur,Pune,Delhivery,Truck,4.44,1337,2539.88,In Transit
+SHP004380,ORD104380,2026-07-05,Chennai_WH05,Delhi,Lucknow,Blue Dart,Mini Truck,44.63,2112,4417.16,Delivered
+SHP004381,ORD104381,2026-07-05,Hyderabad_WH04,Jaipur,Pune,Delhivery,Van,8.29,2273,4270.88,In Transit
+SHP004382,ORD104382,2026-07-05,Bengaluru_WH03,Ahmedabad,Pune,FedEx,Bike,26.45,106,588.2,Delivered
+SHP004383,ORD104383,2026-07-05,Hyderabad_WH04,Chennai,Lucknow,Ecom Express,Van,15.67,1920,3724.04,Returned
+SHP004384,ORD104384,2026-07-05,Delhi_WH01,Mumbai,Ahmedabad,Ecom Express,Truck,29.06,666,1627.52,Delivered
+SHP004385,ORD104385,2026-07-05,Hyderabad_WH04,Jaipur,Delhi,Delhivery,Mini Truck,24.19,433,1149.68,Delivered
+SHP004386,ORD104386,2026-07-05,Chennai_WH05,Jaipur,Hyderabad,Blue Dart,Bike,12.26,1288,2545.52,In Transit
+SHP004387,ORD104387,2026-07-05,Chennai_WH05,Ahmedabad,Hyderabad,Blue Dart,Mini Truck,2.39,842,1624.28,Delivered
+SHP004388,ORD104388,2026-07-05,Delhi_WH01,Hyderabad,Kolkata,Ecom Express,Bike,17.73,622,1412.36,Delayed
+SHP004389,ORD104389,2026-07-05,Delhi_WH01,Kolkata,Pune,Delhivery,Bike,45.91,902,2254.52,Delivered
+SHP004390,ORD104390,2026-07-05,Bengaluru_WH03,Hyderabad,Lucknow,Blue Dart,Truck,23.95,762,1739.0,Delivered
+SHP004391,ORD104391,2026-07-05,Hyderabad_WH04,Pune,Lucknow,Ecom Express,Van,49.41,993,2460.32,In Transit
+SHP004392,ORD104392,2026-07-05,Chennai_WH05,Bengaluru,Lucknow,DHL,Mini Truck,18.88,284,817.76,Delivered
+SHP004393,ORD104393,2026-07-05,Mumbai_WH02,Chennai,Jaipur,Delhivery,Van,32.02,134,705.44,Delivered
+SHP004394,ORD104394,2026-07-05,Bengaluru_WH03,Delhi,Bengaluru,Blue Dart,Van,19.82,178,638.24,Delivered
+SHP004395,ORD104395,2026-07-05,Chennai_WH05,Lucknow,Hyderabad,Ecom Express,Van,21.18,2264,4409.36,In Transit
+SHP004396,ORD104396,2026-07-05,Delhi_WH01,Jaipur,Ahmedabad,FedEx,Van,36.11,1996,4106.12,In Transit
+SHP004397,ORD104397,2026-07-05,Hyderabad_WH04,Pune,Hyderabad,FedEx,Bike,7.21,1603,3051.92,In Transit
+SHP004398,ORD104398,2026-07-05,Hyderabad_WH04,Delhi,Mumbai,Blue Dart,Mini Truck,33.97,1189,2627.84,Delivered
+SHP004399,ORD104399,2026-07-05,Hyderabad_WH04,Pune,Jaipur,Ecom Express,Van,10.2,1353,2637.8,Delivered
+SHP004400,ORD104400,2026-07-05,Mumbai_WH02,Pune,Jaipur,Delhivery,Mini Truck,28.93,1652,3400.76,Delayed
+SHP004401,ORD104401,2026-07-05,Hyderabad_WH04,Hyderabad,Delhi,DHL,Truck,30.43,1917,3895.76,Delivered
+SHP004402,ORD104402,2026-07-05,Bengaluru_WH03,Lucknow,Ahmedabad,Ecom Express,Truck,9.08,1745,3329.96,Delivered
+SHP004403,ORD104403,2026-07-05,Chennai_WH05,Chennai,Kolkata,FedEx,Mini Truck,39.75,1775,3752.0,Delivered
+SHP004404,ORD104404,2026-07-05,Chennai_WH05,Jaipur,Mumbai,DHL,Van,47.87,1329,3046.64,Delivered
+SHP004405,ORD104405,2026-07-05,Bengaluru_WH03,Ahmedabad,Delhi,Ecom Express,Bike,43.25,1080,2543.0,Cancelled
+SHP004406,ORD104406,2026-07-05,Delhi_WH01,Pune,Mumbai,Blue Dart,Van,11.44,261,687.08,In Transit
+SHP004407,ORD104407,2026-07-05,Hyderabad_WH04,Mumbai,Chennai,DHL,Bike,21.5,1773,3529.4,Delivered
+SHP004408,ORD104408,2026-07-05,Bengaluru_WH03,Lucknow,Kolkata,Ecom Express,Truck,24.8,1654,3354.8,In Transit
+SHP004409,ORD104409,2026-07-05,Hyderabad_WH04,Lucknow,Mumbai,Ecom Express,Mini Truck,48.14,787,2074.28,Delivered
+SHP004410,ORD104410,2026-07-05,Hyderabad_WH04,Chennai,Pune,Delhivery,Bike,38.68,1738,3672.56,Delivered
+SHP004411,ORD104411,2026-07-05,Bengaluru_WH03,Delhi,Pune,FedEx,Truck,35.22,1377,2981.24,Delivered
+SHP004412,ORD104412,2026-07-05,Delhi_WH01,Lucknow,Chennai,DHL,Truck,40.65,1465,3204.8,Delivered
+SHP004413,ORD104413,2026-07-05,Hyderabad_WH04,Jaipur,Delhi,DHL,Bike,49.19,1805,3919.28,Delivered
+SHP004414,ORD104414,2026-07-05,Hyderabad_WH04,Jaipur,Delhi,FedEx,Truck,48.52,1960,4190.24,Delivered
+SHP004415,ORD104415,2026-07-05,Hyderabad_WH04,Delhi,Hyderabad,FedEx,Mini Truck,14.1,336,854.0,Delivered
+SHP004416,ORD104416,2026-07-05,Hyderabad_WH04,Bengaluru,Delhi,FedEx,Van,26.09,1108,2387.48,Delivered
+SHP004417,ORD104417,2026-07-05,Mumbai_WH02,Chennai,Pune,Blue Dart,Bike,16.63,975,2034.56,Delivered
+SHP004418,ORD104418,2026-07-05,Delhi_WH01,Lucknow,Kolkata,Delhivery,Mini Truck,30.63,1570,3273.56,Delivered
+SHP004419,ORD104419,2026-07-05,Bengaluru_WH03,Bengaluru,Delhi,Delhivery,Mini Truck,46.39,187,973.28,Delivered
+SHP004420,ORD104420,2026-07-05,Bengaluru_WH03,Lucknow,Mumbai,DHL,Truck,12.74,213,616.28,Delivered
+SHP004421,ORD104421,2026-07-05,Chennai_WH05,Ahmedabad,Pune,Ecom Express,Bike,2.75,2442,4508.6,In Transit
+SHP004422,ORD104422,2026-07-05,Mumbai_WH02,Kolkata,Jaipur,Blue Dart,Mini Truck,1.97,275,598.64,Delivered
+SHP004423,ORD104423,2026-07-05,Mumbai_WH02,Hyderabad,Jaipur,Ecom Express,Van,16.23,2355,4513.76,Delivered
+SHP004424,ORD104424,2026-07-05,Hyderabad_WH04,Hyderabad,Delhi,FedEx,Bike,30.3,987,2220.2,Delivered
+SHP004425,ORD104425,2026-07-05,Bengaluru_WH03,Kolkata,Hyderabad,Ecom Express,Bike,27.37,1643,3365.84,In Transit
+SHP004426,ORD104426,2026-07-05,Bengaluru_WH03,Lucknow,Ahmedabad,Delhivery,Truck,34.51,2053,4189.52,In Transit
+SHP004427,ORD104427,2026-07-05,Chennai_WH05,Ahmedabad,Bengaluru,Ecom Express,Mini Truck,30.98,1376,2928.56,In Transit
+SHP004428,ORD104428,2026-07-05,Mumbai_WH02,Hyderabad,Lucknow,DHL,Truck,46.73,135,883.76,In Transit
+SHP004429,ORD104429,2026-07-05,Chennai_WH05,Pune,Lucknow,Blue Dart,Mini Truck,15.6,1594,3136.4,Delayed
+SHP004430,ORD104430,2026-07-05,Delhi_WH01,Delhi,Mumbai,DHL,Bike,34.71,2448,4902.92,Delivered
+SHP004431,ORD104431,2026-07-05,Mumbai_WH02,Jaipur,Hyderabad,DHL,Mini Truck,10.79,805,1658.48,Delivered
+SHP004432,ORD104432,2026-07-05,Chennai_WH05,Jaipur,Lucknow,Blue Dart,Truck,45.14,86,776.48,Delivered
+SHP004433,ORD104433,2026-07-05,Chennai_WH05,Hyderabad,Mumbai,DHL,Bike,42.21,2127,4415.12,Delivered
+SHP004434,ORD104434,2026-07-05,Bengaluru_WH03,Chennai,Bengaluru,DHL,Bike,44.12,420,1365.44,Cancelled
+SHP004435,ORD104435,2026-07-05,Delhi_WH01,Jaipur,Mumbai,Blue Dart,Mini Truck,26.45,189,737.6,Delivered
+SHP004436,ORD104436,2026-07-05,Chennai_WH05,Pune,Lucknow,DHL,Bike,0.55,1393,2594.0,Delayed
+SHP004437,ORD104437,2026-07-05,Delhi_WH01,Pune,Chennai,Blue Dart,Mini Truck,32.57,1725,3575.84,In Transit
+SHP004438,ORD104438,2026-07-05,Hyderabad_WH04,Ahmedabad,Jaipur,Blue Dart,Bike,35.67,1668,3510.44,Delivered
+SHP004439,ORD104439,2026-07-05,Chennai_WH05,Ahmedabad,Chennai,FedEx,Bike,9.97,1426,2766.44,Delivered
+SHP004440,ORD104440,2026-07-05,Delhi_WH01,Pune,Ahmedabad,Ecom Express,Mini Truck,32.5,2305,4619.0,Delivered
+SHP004441,ORD104441,2026-07-05,Mumbai_WH02,Bengaluru,Jaipur,DHL,Mini Truck,9.74,486,1071.68,Delivered
+SHP004442,ORD104442,2026-07-05,Mumbai_WH02,Delhi,Pune,Ecom Express,Truck,32.31,1585,3320.72,Delivered
+SHP004443,ORD104443,2026-07-05,Mumbai_WH02,Lucknow,Delhi,FedEx,Bike,37.66,355,1170.92,Delivered
+SHP004444,ORD104444,2026-07-05,Bengaluru_WH03,Ahmedabad,Delhi,Blue Dart,Bike,1.75,638,1249.4,Delivered
+SHP004445,ORD104445,2026-07-05,Delhi_WH01,Mumbai,Kolkata,Ecom Express,Truck,42.94,1758,3759.68,Delivered
+SHP004446,ORD104446,2026-07-05,Hyderabad_WH04,Mumbai,Delhi,FedEx,Van,5.38,260,612.56,Delivered
+SHP004447,ORD104447,2026-07-05,Mumbai_WH02,Kolkata,Mumbai,DHL,Van,20.41,1051,2216.72,In Transit
+SHP004448,ORD104448,2026-07-05,Mumbai_WH02,Chennai,Ahmedabad,FedEx,Bike,25.44,564,1400.48,In Transit
+SHP004449,ORD104449,2026-07-05,Bengaluru_WH03,Kolkata,Hyderabad,Blue Dart,Truck,28.52,1578,3262.64,In Transit
+SHP004450,ORD104450,2026-07-05,Hyderabad_WH04,Kolkata,Hyderabad,Ecom Express,Van,32.93,2184,4406.36,Delivered
+SHP004451,ORD104451,2026-07-05,Mumbai_WH02,Bengaluru,Ahmedabad,Delhivery,Mini Truck,22.82,1361,2803.64,Delivered
+SHP004452,ORD104452,2026-07-05,Hyderabad_WH04,Kolkata,Mumbai,Blue Dart,Truck,35.26,2145,4364.12,In Transit
+SHP004453,ORD104453,2026-07-05,Bengaluru_WH03,Kolkata,Hyderabad,DHL,Bike,15.12,2302,4405.04,Delivered
+SHP004454,ORD104454,2026-07-05,Chennai_WH05,Delhi,Pune,Blue Dart,Truck,22.57,1566,3169.64,Delivered
+SHP004455,ORD104455,2026-07-05,Hyderabad_WH04,Bengaluru,Chennai,Blue Dart,Van,35.86,1403,3035.72,Delivered
+SHP004456,ORD104456,2026-07-05,Hyderabad_WH04,Delhi,Pune,Blue Dart,Truck,4.77,2233,4156.64,In Transit
+SHP004457,ORD104457,2026-07-05,Chennai_WH05,Ahmedabad,Bengaluru,Delhivery,Truck,20.37,609,1420.64,In Transit
+SHP004458,ORD104458,2026-07-05,Bengaluru_WH03,Mumbai,Hyderabad,Ecom Express,Van,2.49,333,709.28,Delivered
+SHP004459,ORD104459,2026-07-05,Hyderabad_WH04,Lucknow,Mumbai,Delhivery,Bike,34.88,446,1301.36,In Transit
+SHP004460,ORD104460,2026-07-05,Bengaluru_WH03,Bengaluru,Ahmedabad,Delhivery,Truck,43.39,93,768.08,Delivered
+SHP004461,ORD104461,2026-07-05,Bengaluru_WH03,Mumbai,Delhi,FedEx,Bike,28.4,2349,4649.0,Delayed
+SHP004462,ORD104462,2026-07-05,Mumbai_WH02,Chennai,Bengaluru,DHL,Bike,30.49,2004,4053.08,Cancelled
+SHP004463,ORD104463,2026-07-05,Mumbai_WH02,Delhi,Pune,Delhivery,Bike,10.27,778,1603.64,Delivered
+SHP004464,ORD104464,2026-07-05,Chennai_WH05,Bengaluru,Lucknow,DHL,Mini Truck,11.94,2459,4649.48,Delivered
+SHP004465,ORD104465,2026-07-05,Bengaluru_WH03,Lucknow,Bengaluru,Ecom Express,Van,17.22,1293,2614.04,Delivered
+SHP004466,ORD104466,2026-07-05,Bengaluru_WH03,Ahmedabad,Pune,Delhivery,Van,37.52,355,1169.24,Delivered
+SHP004467,ORD104467,2026-07-05,Mumbai_WH02,Kolkata,Bengaluru,FedEx,Van,5.33,516,1072.76,Delivered
+SHP004468,ORD104468,2026-07-05,Chennai_WH05,Bengaluru,Chennai,Ecom Express,Bike,16.42,717,1567.64,In Transit
+SHP004469,ORD104469,2026-07-05,Bengaluru_WH03,Hyderabad,Lucknow,Blue Dart,Van,37.03,1651,3496.16,Delayed
+SHP004470,ORD104470,2026-07-05,Hyderabad_WH04,Kolkata,Bengaluru,Blue Dart,Bike,32.7,2178,4392.8,Delivered
+SHP004471,ORD104471,2026-07-05,Bengaluru_WH03,Ahmedabad,Jaipur,Blue Dart,Mini Truck,22.58,2072,4080.56,Delivered
+SHP004472,ORD104472,2026-07-05,Chennai_WH05,Lucknow,Mumbai,Ecom Express,Van,28.01,1555,3215.12,Delivered
+SHP004473,ORD104473,2026-07-05,Mumbai_WH02,Ahmedabad,Lucknow,Delhivery,Van,47.79,1459,3279.68,Delivered
+SHP004474,ORD104474,2026-07-05,Chennai_WH05,Kolkata,Hyderabad,Delhivery,Van,12.86,432,1011.92,Delivered
+SHP004475,ORD104475,2026-07-05,Delhi_WH01,Pune,Lucknow,FedEx,Bike,48.16,866,2216.72,Delivered
+SHP004476,ORD104476,2026-07-05,Mumbai_WH02,Mumbai,Pune,Ecom Express,Truck,44.74,230,1030.88,Returned
+SHP004477,ORD104477,2026-07-05,Delhi_WH01,Jaipur,Bengaluru,Delhivery,Bike,31.6,574,1492.4,Delivered
+SHP004478,ORD104478,2026-07-05,Hyderabad_WH04,Hyderabad,Kolkata,DHL,Truck,0.73,1884,3479.96,Delivered
+SHP004479,ORD104479,2026-07-05,Chennai_WH05,Jaipur,Hyderabad,Ecom Express,Truck,20.49,2247,4370.48,Delayed
+SHP004480,ORD104480,2026-07-05,Bengaluru_WH03,Ahmedabad,Mumbai,Blue Dart,Mini Truck,41.51,1421,3135.92,Delivered
+SHP004481,ORD104481,2026-07-05,Delhi_WH01,Pune,Bengaluru,Ecom Express,Mini Truck,8.6,762,1554.8,Delivered
+SHP004482,ORD104482,2026-07-05,Mumbai_WH02,Bengaluru,Hyderabad,Delhivery,Van,9.29,1477,2850.08,Delivered
+SHP004483,ORD104483,2026-07-05,Hyderabad_WH04,Delhi,Ahmedabad,Blue Dart,Bike,24.22,1277,2669.24,Delivered
+SHP004484,ORD104484,2026-07-05,Chennai_WH05,Jaipur,Kolkata,Blue Dart,Mini Truck,39.85,1074,2491.4,Delivered
+SHP004485,ORD104485,2026-07-05,Hyderabad_WH04,Chennai,Lucknow,DHL,Van,41.52,718,1870.64,Delivered
+SHP004486,ORD104486,2026-07-05,Hyderabad_WH04,Ahmedabad,Bengaluru,FedEx,Van,14.47,1780,3457.64,Delivered
+SHP004487,ORD104487,2026-07-05,Mumbai_WH02,Ahmedabad,Lucknow,DHL,Mini Truck,11.79,2301,4363.28,Delivered
+SHP004488,ORD104488,2026-07-05,Hyderabad_WH04,Pune,Kolkata,FedEx,Bike,6.56,407,891.32,In Transit
+SHP004489,ORD104489,2026-07-05,Chennai_WH05,Mumbai,Jaipur,DHL,Truck,26.42,2024,4040.24,Delivered
+SHP004490,ORD104490,2026-07-05,Hyderabad_WH04,Bengaluru,Pune,Delhivery,Bike,41.04,446,1375.28,In Transit
+SHP004491,ORD104491,2026-07-05,Mumbai_WH02,Hyderabad,Chennai,FedEx,Mini Truck,44.42,789,2033.24,In Transit
+SHP004492,ORD104492,2026-07-05,Chennai_WH05,Pune,Ahmedabad,Blue Dart,Truck,23.66,633,1503.32,Delivered
+SHP004493,ORD104493,2026-07-05,Bengaluru_WH03,Bengaluru,Jaipur,Blue Dart,Bike,49.15,330,1263.8,Delivered
+SHP004494,ORD104494,2026-07-05,Mumbai_WH02,Mumbai,Jaipur,DHL,Van,17.9,1284,2606.0,Delivered
+SHP004495,ORD104495,2026-07-05,Delhi_WH01,Pune,Mumbai,DHL,Van,4.37,2335,4335.44,In Transit
+SHP004496,ORD104496,2026-07-05,Delhi_WH01,Lucknow,Hyderabad,Blue Dart,Bike,7.89,1969,3718.88,Delivered
+SHP004497,ORD104497,2026-07-05,Delhi_WH01,Chennai,Bengaluru,Delhivery,Mini Truck,39.67,1294,2885.24,Delivered
+SHP004498,ORD104498,2026-07-05,Bengaluru_WH03,Bengaluru,Lucknow,Ecom Express,Van,33.52,2180,4406.24,Delivered
+SHP004499,ORD104499,2026-07-05,Bengaluru_WH03,Lucknow,Chennai,Delhivery,Bike,2.17,1026,1952.84,Delivered
+SHP004500,ORD104500,2026-07-05,Mumbai_WH02,Kolkata,Ahmedabad,Ecom Express,Van,45.9,658,1815.2,Delayed
+SHP004501,ORD104501,2026-07-05,Bengaluru_WH03,Ahmedabad,Chennai,DHL,Van,23.14,1351,2789.48,Delayed
+SHP004502,ORD104502,2026-07-05,Chennai_WH05,Hyderabad,Mumbai,Ecom Express,Mini Truck,6.81,2002,3765.32,Delivered
+SHP004503,ORD104503,2026-07-05,Hyderabad_WH04,Jaipur,Chennai,Delhivery,Truck,36.71,881,2106.32,In Transit
+SHP004504,ORD104504,2026-07-05,Chennai_WH05,Chennai,Mumbai,Delhivery,Mini Truck,12.03,2090,3986.36,Delivered
+SHP004505,ORD104505,2026-07-05,Bengaluru_WH03,Chennai,Jaipur,Blue Dart,Bike,38.09,1918,3989.48,Delivered
+SHP004506,ORD104506,2026-07-05,Chennai_WH05,Delhi,Chennai,Ecom Express,Mini Truck,25.54,220,782.48,Delivered
+SHP004507,ORD104507,2026-07-05,Chennai_WH05,Mumbai,Pune,Ecom Express,Mini Truck,47.85,1751,3806.0,Delivered
+SHP004508,ORD104508,2026-07-05,Chennai_WH05,Lucknow,Mumbai,FedEx,Truck,24.46,2002,3977.12,Delivered
+SHP004509,ORD104509,2026-07-05,Mumbai_WH02,Delhi,Ahmedabad,Blue Dart,Truck,11.83,1895,3632.96,Delivered
+SHP004510,ORD104510,2026-07-05,Hyderabad_WH04,Kolkata,Lucknow,DHL,Bike,24.02,472,1217.84,Delivered
+SHP004511,ORD104511,2026-07-05,Mumbai_WH02,Hyderabad,Delhi,Ecom Express,Mini Truck,24.44,836,1878.08,Delivered
+SHP004512,ORD104512,2026-07-05,Delhi_WH01,Pune,Chennai,DHL,Truck,14.53,97,428.96,Delivered
+SHP004513,ORD104513,2026-07-05,Hyderabad_WH04,Kolkata,Jaipur,FedEx,Mini Truck,29.51,1302,2777.72,In Transit
+SHP004514,ORD104514,2026-07-05,Hyderabad_WH04,Kolkata,Pune,DHL,Bike,20.33,2184,4255.16,Delivered
+SHP004515,ORD104515,2026-07-05,Chennai_WH05,Pune,Lucknow,FedEx,Van,27.75,1438,3001.4,Delivered
+SHP004516,ORD104516,2026-07-05,Mumbai_WH02,Delhi,Hyderabad,FedEx,Truck,46.07,1542,3408.44,Delivered
+SHP004517,ORD104517,2026-07-05,Mumbai_WH02,Hyderabad,Mumbai,Ecom Express,Van,29.36,2218,4424.72,In Transit
+SHP004518,ORD104518,2026-07-05,Mumbai_WH02,Hyderabad,Ahmedabad,Ecom Express,Truck,30.57,1928,3917.24,Returned
+SHP004519,ORD104519,2026-07-05,Hyderabad_WH04,Kolkata,Bengaluru,DHL,Mini Truck,33.66,1379,2966.12,Delivered
+SHP004520,ORD104520,2026-07-05,Hyderabad_WH04,Bengaluru,Kolkata,Delhivery,Bike,1.76,1630,3035.12,Delivered
+SHP004521,ORD104521,2026-07-05,Mumbai_WH02,Ahmedabad,Lucknow,Delhivery,Bike,45.75,580,1673.0,Delivered
+SHP004522,ORD104522,2026-07-05,Chennai_WH05,Lucknow,Hyderabad,DHL,Bike,1.28,1091,2059.16,Delivered
+SHP004523,ORD104523,2026-07-05,Bengaluru_WH03,Mumbai,Delhi,DHL,Van,37.37,1036,2393.24,Delivered
+SHP004524,ORD104524,2026-07-05,Bengaluru_WH03,Mumbai,Bengaluru,Delhivery,Bike,40.98,873,2143.16,Delivered
+SHP004525,ORD104525,2026-07-05,Delhi_WH01,Kolkata,Ahmedabad,FedEx,Van,34.18,2273,4581.56,Delivered
+SHP004526,ORD104526,2026-07-05,Mumbai_WH02,Delhi,Jaipur,Ecom Express,Mini Truck,21.68,1272,2629.76,In Transit
+SHP004527,ORD104527,2026-07-05,Bengaluru_WH03,Lucknow,Ahmedabad,Delhivery,Van,18.35,1479,2962.4,In Transit
+SHP004528,ORD104528,2026-07-05,Mumbai_WH02,Pune,Ahmedabad,Delhivery,Van,22.69,1484,3023.48,Delivered
+SHP004529,ORD104529,2026-07-05,Chennai_WH05,Kolkata,Delhi,FedEx,Bike,41.61,799,2017.52,Delivered
+SHP004530,ORD104530,2026-07-05,Chennai_WH05,Mumbai,Hyderabad,FedEx,Van,33.78,1042,2360.96,Delivered
+SHP004531,ORD104531,2026-07-05,Chennai_WH05,Mumbai,Chennai,Delhivery,Truck,44.06,2225,4613.72,Delivered
+SHP004532,ORD104532,2026-07-05,Delhi_WH01,Jaipur,Ahmedabad,Ecom Express,Bike,0.77,132,326.84,In Transit
+SHP004533,ORD104533,2026-07-05,Delhi_WH01,Jaipur,Pune,Delhivery,Truck,24.62,1782,3583.04,Delivered
+SHP004534,ORD104534,2026-07-05,Chennai_WH05,Kolkata,Hyderabad,Ecom Express,Van,9.98,2069,3923.96,Delivered
+SHP004535,ORD104535,2026-07-05,Hyderabad_WH04,Delhi,Pune,Blue Dart,Bike,28.25,1076,2355.8,Delivered
+SHP004536,ORD104536,2026-07-05,Bengaluru_WH03,Delhi,Jaipur,Ecom Express,Bike,10.21,2172,4112.12,Delivered
+SHP004537,ORD104537,2026-07-05,Delhi_WH01,Ahmedabad,Delhi,Ecom Express,Bike,2.01,1916,3552.92,Delivered
+SHP004538,ORD104538,2026-07-05,Delhi_WH01,Pune,Mumbai,Blue Dart,Van,18.01,482,1163.72,Delivered
+SHP004539,ORD104539,2026-07-05,Delhi_WH01,Hyderabad,Jaipur,Delhivery,Truck,24.52,66,493.04,Delivered
+SHP004540,ORD104540,2026-07-05,Mumbai_WH02,Delhi,Lucknow,Delhivery,Mini Truck,3.35,1374,2593.4,In Transit
+SHP004541,ORD104541,2026-07-05,Chennai_WH05,Hyderabad,Kolkata,DHL,Van,9.98,1207,2372.36,Delayed
+SHP004542,ORD104542,2026-07-05,Bengaluru_WH03,Delhi,Pune,Blue Dart,Truck,43.97,1200,2767.64,In Transit
+SHP004543,ORD104543,2026-07-05,Chennai_WH05,Chennai,Mumbai,Ecom Express,Mini Truck,46.71,1051,2532.32,In Transit
+SHP004544,ORD104544,2026-07-05,Chennai_WH05,Pune,Bengaluru,FedEx,Truck,47.43,1098,2625.56,Delivered
+SHP004545,ORD104545,2026-07-05,Mumbai_WH02,Bengaluru,Hyderabad,Blue Dart,Van,11.43,1459,2843.36,Delivered
+SHP004546,ORD104546,2026-07-05,Bengaluru_WH03,Pune,Chennai,DHL,Van,16.46,403,1002.92,Delivered
+SHP004547,ORD104547,2026-07-05,Mumbai_WH02,Bengaluru,Pune,Delhivery,Mini Truck,35.64,1588,3366.08,Delivered
+SHP004548,ORD104548,2026-07-05,Delhi_WH01,Bengaluru,Jaipur,Blue Dart,Van,2.13,605,1194.56,Delivered
+SHP004549,ORD104549,2026-07-05,Mumbai_WH02,Kolkata,Chennai,Ecom Express,Mini Truck,44.69,953,2331.68,Delivered
+SHP004550,ORD104550,2026-07-05,Bengaluru_WH03,Kolkata,Bengaluru,Blue Dart,Mini Truck,40.98,788,1990.16,Delivered
+SHP004551,ORD104551,2026-07-05,Mumbai_WH02,Bengaluru,Mumbai,Delhivery,Van,4.3,2325,4316.6,Delivered
+SHP004552,ORD104552,2026-07-05,Chennai_WH05,Kolkata,Chennai,Ecom Express,Bike,28.62,1816,3692.24,Delivered
+SHP004553,ORD104553,2026-07-05,Mumbai_WH02,Delhi,Hyderabad,Delhivery,Van,47.83,2090,4415.96,Delivered
+SHP004554,ORD104554,2026-07-05,Chennai_WH05,Delhi,Pune,Delhivery,Truck,8.5,595,1253.0,Delivered
+SHP004555,ORD104555,2026-07-05,Hyderabad_WH04,Lucknow,Bengaluru,Delhivery,Bike,22.77,1013,2176.64,Delivered
+SHP004556,ORD104556,2026-07-05,Mumbai_WH02,Delhi,Bengaluru,DHL,Bike,49.54,739,2004.68,Delivered
+SHP004557,ORD104557,2026-07-05,Delhi_WH01,Lucknow,Mumbai,Blue Dart,Truck,15.97,1893,3679.04,Delivered
+SHP004558,ORD104558,2026-07-05,Bengaluru_WH03,Ahmedabad,Pune,DHL,Bike,0.96,2120,3907.52,Delivered
+SHP004559,ORD104559,2026-07-05,Chennai_WH05,Chennai,Jaipur,Delhivery,Bike,17.25,2215,4274.0,Delivered
+SHP004560,ORD104560,2026-07-05,Chennai_WH05,Lucknow,Jaipur,Blue Dart,Van,25.28,2294,4512.56,Delivered
+SHP004561,ORD104561,2026-07-05,Delhi_WH01,Chennai,Delhi,FedEx,Truck,26.6,2292,4524.8,Delivered
+SHP004562,ORD104562,2026-07-05,Mumbai_WH02,Ahmedabad,Hyderabad,DHL,Van,34.33,989,2272.16,Delivered
+SHP004563,ORD104563,2026-07-05,Mumbai_WH02,Jaipur,Bengaluru,DHL,Bike,35.11,793,1928.72,Delivered
+SHP004564,ORD104564,2026-07-05,Hyderabad_WH04,Pune,Delhi,FedEx,Mini Truck,9.5,2078,3934.4,Delivered
+SHP004565,ORD104565,2026-07-05,Chennai_WH05,Bengaluru,Mumbai,FedEx,Van,19.67,1685,3349.04,Delivered
+SHP004566,ORD104566,2026-07-05,Delhi_WH01,Jaipur,Hyderabad,Blue Dart,Mini Truck,27.66,1520,3147.92,Delivered
+SHP004567,ORD104567,2026-07-05,Bengaluru_WH03,Bengaluru,Chennai,Ecom Express,Van,26.73,1610,3298.76,Delivered
+SHP004568,ORD104568,2026-07-05,Mumbai_WH02,Chennai,Pune,Blue Dart,Bike,25.22,1808,3637.04,Delivered
+SHP004569,ORD104569,2026-07-05,Chennai_WH05,Bengaluru,Pune,FedEx,Mini Truck,44.82,1432,3195.44,Delivered
+SHP004570,ORD104570,2026-07-05,Delhi_WH01,Mumbai,Jaipur,DHL,Bike,27.55,1295,2741.6,Cancelled
+SHP004571,ORD104571,2026-07-05,Bengaluru_WH03,Hyderabad,Jaipur,Ecom Express,Bike,16.22,144,533.84,Delivered
+SHP004572,ORD104572,2026-07-05,Bengaluru_WH03,Chennai,Pune,Ecom Express,Van,12.69,2493,4719.68,Delivered
+SHP004573,ORD104573,2026-07-05,Hyderabad_WH04,Bengaluru,Delhi,DHL,Truck,28.76,2196,4377.92,In Transit
+SHP004574,ORD104574,2026-07-05,Bengaluru_WH03,Lucknow,Hyderabad,DHL,Truck,3.29,1373,2590.88,Delivered
+SHP004575,ORD104575,2026-07-05,Hyderabad_WH04,Kolkata,Mumbai,Ecom Express,Mini Truck,18.0,2121,4113.8,Delivered
+SHP004576,ORD104576,2026-07-05,Hyderabad_WH04,Kolkata,Mumbai,FedEx,Bike,15.78,1696,3322.16,Delivered
+SHP004577,ORD104577,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Blue Dart,Truck,12.57,1793,3458.24,Delivered
+SHP004578,ORD104578,2026-07-05,Hyderabad_WH04,Kolkata,Jaipur,Ecom Express,Bike,1.02,366,751.04,Delivered
+SHP004579,ORD104579,2026-07-05,Mumbai_WH02,Mumbai,Jaipur,DHL,Van,4.24,2312,4292.48,Delayed
+SHP004580,ORD104580,2026-07-05,Bengaluru_WH03,Mumbai,Lucknow,FedEx,Mini Truck,26.43,1345,2818.16,Delivered
+SHP004581,ORD104581,2026-07-05,Delhi_WH01,Pune,Kolkata,FedEx,Truck,29.63,1065,2352.56,Delivered
+SHP004582,ORD104582,2026-07-05,Chennai_WH05,Bengaluru,Kolkata,DHL,Bike,32.45,1307,2822.0,Delivered
+SHP004583,ORD104583,2026-07-05,Mumbai_WH02,Kolkata,Lucknow,Delhivery,Bike,23.87,1085,2319.44,In Transit
+SHP004584,ORD104584,2026-07-05,Mumbai_WH02,Chennai,Lucknow,DHL,Bike,16.75,1245,2522.0,In Transit
+SHP004585,ORD104585,2026-07-05,Mumbai_WH02,Kolkata,Jaipur,DHL,Bike,9.38,1533,2951.96,Returned
+SHP004586,ORD104586,2026-07-05,Delhi_WH01,Lucknow,Mumbai,FedEx,Truck,27.03,95,575.36,Delivered
+SHP004587,ORD104587,2026-07-05,Chennai_WH05,Mumbai,Ahmedabad,DHL,Bike,27.0,1525,3149.0,Delivered
+SHP004588,ORD104588,2026-07-05,Delhi_WH01,Ahmedabad,Lucknow,Delhivery,Van,20.77,1429,2901.44,Delivered
+SHP004589,ORD104589,2026-07-05,Hyderabad_WH04,Ahmedabad,Bengaluru,Delhivery,Truck,15.88,944,1969.76,Delivered
+SHP004590,ORD104590,2026-07-05,Chennai_WH05,Pune,Ahmedabad,FedEx,Mini Truck,5.29,1321,2521.28,Delivered
+SHP004591,ORD104591,2026-07-05,Mumbai_WH02,Delhi,Pune,FedEx,Van,21.86,1966,3881.12,Delivered
+SHP004592,ORD104592,2026-07-05,Chennai_WH05,Ahmedabad,Delhi,Ecom Express,Mini Truck,5.62,1373,2618.84,Delivered
+SHP004593,ORD104593,2026-07-05,Bengaluru_WH03,Chennai,Jaipur,FedEx,Mini Truck,33.89,589,1546.88,Delivered
+SHP004594,ORD104594,2026-07-05,Bengaluru_WH03,Jaipur,Pune,DHL,Bike,5.34,2091,3907.88,Delivered
+SHP004595,ORD104595,2026-07-05,Chennai_WH05,Bengaluru,Jaipur,FedEx,Truck,7.57,548,1157.24,Delivered
+SHP004596,ORD104596,2026-07-05,Bengaluru_WH03,Lucknow,Bengaluru,DHL,Truck,29.31,1761,3601.52,In Transit
+SHP004597,ORD104597,2026-07-05,Chennai_WH05,Pune,Hyderabad,FedEx,Van,35.15,910,2139.8,Delivered
+SHP004598,ORD104598,2026-07-05,Hyderabad_WH04,Mumbai,Ahmedabad,FedEx,Van,18.37,1440,2892.44,Delivered
+SHP004599,ORD104599,2026-07-05,Mumbai_WH02,Jaipur,Delhi,FedEx,Mini Truck,19.4,1554,3110.0,In Transit
+SHP004600,ORD104600,2026-07-05,Hyderabad_WH04,Delhi,Kolkata,DHL,Mini Truck,17.11,2326,4472.12,Delivered
+SHP004601,ORD104601,2026-07-05,Bengaluru_WH03,Pune,Lucknow,Ecom Express,Mini Truck,42.43,688,1827.56,Delivered
+SHP004602,ORD104602,2026-07-05,Mumbai_WH02,Jaipur,Ahmedabad,Ecom Express,Van,46.71,1696,3693.32,Delivered
+SHP004603,ORD104603,2026-07-05,Hyderabad_WH04,Lucknow,Delhi,Delhivery,Bike,46.25,678,1855.4,Delivered
+SHP004604,ORD104604,2026-07-05,Bengaluru_WH03,Hyderabad,Pune,Blue Dart,Truck,24.04,1912,3810.08,Delivered
+SHP004605,ORD104605,2026-07-05,Delhi_WH01,Hyderabad,Ahmedabad,Ecom Express,Van,19.8,493,1205.0,Delivered
+SHP004606,ORD104606,2026-07-05,Bengaluru_WH03,Lucknow,Ahmedabad,Blue Dart,Truck,33.94,366,1146.08,In Transit
+SHP004607,ORD104607,2026-07-05,Bengaluru_WH03,Jaipur,Hyderabad,Ecom Express,Truck,13.42,1491,2924.84,Delivered
+SHP004608,ORD104608,2026-07-05,Mumbai_WH02,Delhi,Lucknow,DHL,Bike,23.85,907,1998.8,Delivered
+SHP004609,ORD104609,2026-07-05,Delhi_WH01,Kolkata,Lucknow,FedEx,Van,42.99,1192,2741.48,Delivered
+SHP004610,ORD104610,2026-07-05,Delhi_WH01,Pune,Delhi,FedEx,Bike,23.31,931,2035.52,In Transit
+SHP004611,ORD104611,2026-07-05,Delhi_WH01,Ahmedabad,Kolkata,Blue Dart,Mini Truck,14.77,1796,3490.04,Delivered
+SHP004612,ORD104612,2026-07-05,Chennai_WH05,Hyderabad,Chennai,FedEx,Mini Truck,37.62,496,1424.24,Delivered
+SHP004613,ORD104613,2026-07-05,Chennai_WH05,Jaipur,Chennai,Blue Dart,Truck,20.02,654,1497.44,Delayed
+SHP004614,ORD104614,2026-07-05,Delhi_WH01,Hyderabad,Ahmedabad,Ecom Express,Van,29.25,1244,2670.2,Delivered
+SHP004615,ORD104615,2026-07-05,Bengaluru_WH03,Jaipur,Chennai,Delhivery,Truck,33.74,2130,4318.88,Delivered
+SHP004616,ORD104616,2026-07-05,Mumbai_WH02,Lucknow,Chennai,Ecom Express,Van,14.1,1688,3287.6,Delivered
+SHP004617,ORD104617,2026-07-05,Mumbai_WH02,Lucknow,Kolkata,Delhivery,Bike,22.96,1346,2778.32,Delivered
+SHP004618,ORD104618,2026-07-05,Bengaluru_WH03,Ahmedabad,Hyderabad,FedEx,Van,15.3,2253,4319.0,Delivered
+SHP004619,ORD104619,2026-07-05,Delhi_WH01,Lucknow,Ahmedabad,FedEx,Truck,2.47,1166,2208.44,Delivered
+SHP004620,ORD104620,2026-07-05,Chennai_WH05,Kolkata,Bengaluru,DHL,Bike,7.23,625,1291.76,Delivered
+SHP004621,ORD104621,2026-07-05,Chennai_WH05,Lucknow,Hyderabad,Blue Dart,Mini Truck,8.05,1411,2716.4,Delivered
+SHP004622,ORD104622,2026-07-05,Delhi_WH01,Hyderabad,Mumbai,DHL,Truck,14.7,1260,2524.4,Delayed
+SHP004623,ORD104623,2026-07-05,Bengaluru_WH03,Jaipur,Delhi,DHL,Mini Truck,24.82,1473,3029.24,Delivered
+SHP004624,ORD104624,2026-07-05,Delhi_WH01,Lucknow,Hyderabad,Delhivery,Truck,24.88,2019,4012.76,Delivered
+SHP004625,ORD104625,2026-07-05,Hyderabad_WH04,Lucknow,Hyderabad,DHL,Truck,43.55,211,982.4,In Transit
+SHP004626,ORD104626,2026-07-05,Chennai_WH05,Jaipur,Pune,Delhivery,Van,20.03,1259,2586.56,In Transit
+SHP004627,ORD104627,2026-07-05,Bengaluru_WH03,Mumbai,Lucknow,Blue Dart,Bike,18.36,142,555.92,Returned
+SHP004628,ORD104628,2026-07-05,Mumbai_WH02,Delhi,Mumbai,DHL,Van,33.61,2479,4945.52,Delivered
+SHP004629,ORD104629,2026-07-05,Hyderabad_WH04,Ahmedabad,Mumbai,Blue Dart,Mini Truck,21.85,355,981.2,Delivered
+SHP004630,ORD104630,2026-07-05,Bengaluru_WH03,Mumbai,Hyderabad,DHL,Mini Truck,9.21,2236,4215.32,Delivered
+SHP004631,ORD104631,2026-07-05,Delhi_WH01,Chennai,Delhi,FedEx,Truck,29.85,276,935.0,In Transit
+SHP004632,ORD104632,2026-07-05,Delhi_WH01,Mumbai,Ahmedabad,Blue Dart,Mini Truck,25.32,1213,2567.24,Returned
+SHP004633,ORD104633,2026-07-05,Bengaluru_WH03,Pune,Bengaluru,DHL,Truck,31.8,2006,4072.4,Delivered
+SHP004634,ORD104634,2026-07-05,Delhi_WH01,Chennai,Delhi,Blue Dart,Van,46.86,2118,4454.72,Delivered
+SHP004635,ORD104635,2026-07-05,Hyderabad_WH04,Mumbai,Hyderabad,FedEx,Van,5.53,1511,2866.16,Cancelled
+SHP004636,ORD104636,2026-07-05,Hyderabad_WH04,Lucknow,Chennai,Ecom Express,Bike,21.54,2321,4516.28,Delivered
+SHP004637,ORD104637,2026-07-05,Delhi_WH01,Lucknow,Ahmedabad,Blue Dart,Bike,45.37,1304,2971.64,Delivered
+SHP004638,ORD104638,2026-07-05,Mumbai_WH02,Delhi,Jaipur,FedEx,Van,4.02,951,1840.04,In Transit
+SHP004639,ORD104639,2026-07-05,Bengaluru_WH03,Ahmedabad,Jaipur,FedEx,Truck,39.65,381,1241.6,Delivered
+SHP004640,ORD104640,2026-07-05,Bengaluru_WH03,Kolkata,Ahmedabad,FedEx,Truck,6.21,1479,2816.72,Delivered
+SHP004641,ORD104641,2026-07-05,Hyderabad_WH04,Mumbai,Pune,Ecom Express,Van,24.26,680,1595.12,Delayed
+SHP004642,ORD104642,2026-07-05,Hyderabad_WH04,Bengaluru,Ahmedabad,FedEx,Truck,1.13,1319,2467.76,In Transit
+SHP004643,ORD104643,2026-07-05,Delhi_WH01,Kolkata,Ahmedabad,Blue Dart,Van,9.19,144,449.48,Delayed
+SHP004644,ORD104644,2026-07-05,Delhi_WH01,Jaipur,Delhi,Blue Dart,Bike,37.99,1358,2980.28,Delivered
+SHP004645,ORD104645,2026-07-05,Bengaluru_WH03,Chennai,Lucknow,Ecom Express,Truck,15.37,1016,2093.24,Delivered
+SHP004646,ORD104646,2026-07-05,Bengaluru_WH03,Chennai,Mumbai,DHL,Mini Truck,5.12,2075,3876.44,Delivered
+SHP004647,ORD104647,2026-07-05,Chennai_WH05,Jaipur,Chennai,FedEx,Bike,45.74,2241,4662.68,Delivered
+SHP004648,ORD104648,2026-07-05,Bengaluru_WH03,Ahmedabad,Hyderabad,Ecom Express,Mini Truck,29.86,1201,2600.12,Delivered
+SHP004649,ORD104649,2026-07-05,Bengaluru_WH03,Chennai,Mumbai,DHL,Truck,7.39,399,886.88,Delayed
+SHP004650,ORD104650,2026-07-05,Mumbai_WH02,Ahmedabad,Hyderabad,FedEx,Van,26.4,275,891.8,Delivered
+SHP004651,ORD104651,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Ecom Express,Mini Truck,40.29,1046,2446.28,Delivered
+SHP004652,ORD104652,2026-07-05,Hyderabad_WH04,Kolkata,Mumbai,DHL,Van,28.56,1586,3277.52,Cancelled
+SHP004653,ORD104653,2026-07-05,Chennai_WH05,Jaipur,Chennai,Delhivery,Mini Truck,42.45,2006,4200.2,Delivered
+SHP004654,ORD104654,2026-07-05,Delhi_WH01,Ahmedabad,Hyderabad,Ecom Express,Mini Truck,19.37,1531,3068.24,Delivered
+SHP004655,ORD104655,2026-07-05,Bengaluru_WH03,Kolkata,Mumbai,Delhivery,Mini Truck,9.17,2125,4015.04,Delivered
+SHP004656,ORD104656,2026-07-05,Chennai_WH05,Lucknow,Pune,Ecom Express,Van,6.13,2251,4205.36,Delivered
+SHP004657,ORD104657,2026-07-05,Delhi_WH01,Chennai,Lucknow,Ecom Express,Van,12.68,2076,3968.96,In Transit
+SHP004658,ORD104658,2026-07-05,Mumbai_WH02,Chennai,Lucknow,Blue Dart,Van,26.15,769,1778.0,In Transit
+SHP004659,ORD104659,2026-07-05,Delhi_WH01,Pune,Lucknow,Ecom Express,Bike,8.97,1520,2923.64,In Transit
+SHP004660,ORD104660,2026-07-05,Delhi_WH01,Kolkata,Lucknow,Blue Dart,Van,26.79,391,1105.28,Delivered
+SHP004661,ORD104661,2026-07-05,Delhi_WH01,Delhi,Ahmedabad,Blue Dart,Van,7.62,1936,3656.24,Delivered
+SHP004662,ORD104662,2026-07-05,Bengaluru_WH03,Lucknow,Chennai,Blue Dart,Truck,28.65,1140,2475.8,Returned
+SHP004663,ORD104663,2026-07-05,Bengaluru_WH03,Hyderabad,Jaipur,Delhivery,Mini Truck,34.72,1301,2838.44,Delayed
+SHP004664,ORD104664,2026-07-05,Hyderabad_WH04,Chennai,Ahmedabad,FedEx,Van,38.52,1523,3283.64,Delivered
+SHP004665,ORD104665,2026-07-05,Hyderabad_WH04,Ahmedabad,Chennai,Blue Dart,Mini Truck,8.01,2084,3927.32,In Transit
+SHP004666,ORD104666,2026-07-05,Bengaluru_WH03,Lucknow,Bengaluru,FedEx,Van,16.77,2022,3920.84,Delivered
+SHP004667,ORD104667,2026-07-05,Delhi_WH01,Lucknow,Delhi,Delhivery,Bike,40.41,1730,3678.92,Delivered
+SHP004668,ORD104668,2026-07-05,Chennai_WH05,Pune,Chennai,DHL,Truck,28.32,615,1526.84,Delivered
+SHP004669,ORD104669,2026-07-05,Bengaluru_WH03,Bengaluru,Jaipur,DHL,Mini Truck,12.14,2131,4061.48,In Transit
+SHP004670,ORD104670,2026-07-05,Chennai_WH05,Pune,Ahmedabad,Delhivery,Truck,22.38,1320,2724.56,In Transit
+SHP004671,ORD104671,2026-07-05,Bengaluru_WH03,Chennai,Delhi,FedEx,Bike,29.35,333,1031.6,Delivered
+SHP004672,ORD104672,2026-07-05,Chennai_WH05,Hyderabad,Lucknow,Blue Dart,Mini Truck,3.75,2275,4220.0,Returned
+SHP004673,ORD104673,2026-07-05,Delhi_WH01,Chennai,Ahmedabad,Ecom Express,Van,32.16,169,770.12,Delivered
+SHP004674,ORD104674,2026-07-05,Hyderabad_WH04,Ahmedabad,Bengaluru,DHL,Van,17.98,287,812.36,In Transit
+SHP004675,ORD104675,2026-07-05,Bengaluru_WH03,Delhi,Chennai,DHL,Bike,3.75,969,1869.2,Returned
+SHP004676,ORD104676,2026-07-05,Chennai_WH05,Chennai,Jaipur,Delhivery,Bike,30.79,1593,3316.88,In Transit
+SHP004677,ORD104677,2026-07-05,Bengaluru_WH03,Bengaluru,Kolkata,Ecom Express,Bike,22.09,1967,3885.68,Delivered
+SHP004678,ORD104678,2026-07-05,Chennai_WH05,Hyderabad,Mumbai,FedEx,Mini Truck,21.13,2111,4133.36,Delivered
+SHP004679,ORD104679,2026-07-05,Hyderabad_WH04,Lucknow,Kolkata,DHL,Truck,28.84,724,1729.28,Delivered
+SHP004680,ORD104680,2026-07-05,Chennai_WH05,Chennai,Jaipur,DHL,Mini Truck,23.58,945,2063.96,Delivered
+SHP004681,ORD104681,2026-07-05,Hyderabad_WH04,Hyderabad,Ahmedabad,Ecom Express,Mini Truck,7.23,1945,3667.76,In Transit
+SHP004682,ORD104682,2026-07-05,Hyderabad_WH04,Pune,Kolkata,Ecom Express,Mini Truck,11.68,490,1102.16,In Transit
+SHP004683,ORD104683,2026-07-05,Chennai_WH05,Lucknow,Bengaluru,FedEx,Bike,18.47,1079,2243.84,Delivered
+SHP004684,ORD104684,2026-07-05,Chennai_WH05,Pune,Mumbai,FedEx,Van,32.45,721,1767.2,Delivered
+SHP004685,ORD104685,2026-07-05,Delhi_WH01,Delhi,Lucknow,Ecom Express,Bike,47.43,868,2211.56,Cancelled
+SHP004686,ORD104686,2026-07-05,Chennai_WH05,Kolkata,Chennai,Ecom Express,Bike,41.5,1918,4030.4,Delivered
+SHP004687,ORD104687,2026-07-05,Delhi_WH01,Jaipur,Lucknow,Blue Dart,Bike,19.29,359,957.68,Delivered
+SHP004688,ORD104688,2026-07-05,Delhi_WH01,Delhi,Ahmedabad,Ecom Express,Van,24.96,2200,4339.52,Delivered
+SHP004689,ORD104689,2026-07-05,Chennai_WH05,Bengaluru,Delhi,Delhivery,Mini Truck,26.31,2491,4879.52,Delivered
+SHP004690,ORD104690,2026-07-05,Bengaluru_WH03,Lucknow,Ahmedabad,FedEx,Mini Truck,41.16,2159,4460.12,Delivered
+SHP004691,ORD104691,2026-07-05,Hyderabad_WH04,Chennai,Hyderabad,DHL,Bike,21.73,1634,3281.96,Delivered
+SHP004692,ORD104692,2026-07-05,Bengaluru_WH03,Chennai,Lucknow,FedEx,Bike,43.62,2404,4930.64,Delivered
+SHP004693,ORD104693,2026-07-05,Chennai_WH05,Ahmedabad,Hyderabad,Ecom Express,Mini Truck,34.49,1937,3980.48,Delivered
+SHP004694,ORD104694,2026-07-05,Bengaluru_WH03,Chennai,Hyderabad,DHL,Mini Truck,46.25,206,1005.8,Delivered
+SHP004695,ORD104695,2026-07-05,Hyderabad_WH04,Lucknow,Pune,Delhivery,Van,34.37,1950,4002.44,Delivered
+SHP004696,ORD104696,2026-07-05,Mumbai_WH02,Ahmedabad,Hyderabad,FedEx,Bike,47.15,1399,3164.0,In Transit
+SHP004697,ORD104697,2026-07-05,Bengaluru_WH03,Delhi,Jaipur,Delhivery,Mini Truck,29.99,586,1494.68,Delivered
+SHP004698,ORD104698,2026-07-05,Delhi_WH01,Bengaluru,Jaipur,Blue Dart,Mini Truck,16.79,189,621.68,Delivered
+SHP004699,ORD104699,2026-07-05,Delhi_WH01,Bengaluru,Pune,Ecom Express,Mini Truck,9.62,229,607.64,Delivered
+SHP004700,ORD104700,2026-07-05,Mumbai_WH02,Kolkata,Chennai,FedEx,Mini Truck,11.98,2456,4644.56,Delivered
+SHP004701,ORD104701,2026-07-05,Mumbai_WH02,Pune,Hyderabad,FedEx,Bike,29.05,1958,3953.0,In Transit
+SHP004702,ORD104702,2026-07-05,Delhi_WH01,Mumbai,Ahmedabad,Blue Dart,Van,41.86,1839,3892.52,In Transit
+SHP004703,ORD104703,2026-07-05,Bengaluru_WH03,Ahmedabad,Pune,Blue Dart,Bike,16.93,1477,2941.76,Delivered
+SHP004704,ORD104704,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Blue Dart,Van,17.08,1230,2498.96,Delivered
+SHP004705,ORD104705,2026-07-05,Bengaluru_WH03,Pune,Hyderabad,Ecom Express,Mini Truck,15.54,2489,4746.68,Cancelled
+SHP004706,ORD104706,2026-07-05,Bengaluru_WH03,Kolkata,Delhi,Ecom Express,Truck,17.73,2427,4661.36,Delivered
+SHP004707,ORD104707,2026-07-05,Mumbai_WH02,Chennai,Ahmedabad,Blue Dart,Mini Truck,36.81,397,1236.32,Delivered
+SHP004708,ORD104708,2026-07-05,Chennai_WH05,Jaipur,Chennai,Ecom Express,Mini Truck,15.08,2121,4078.76,Delivered
+SHP004709,ORD104709,2026-07-05,Mumbai_WH02,Mumbai,Jaipur,FedEx,Truck,44.76,276,1113.92,Delivered
+SHP004710,ORD104710,2026-07-05,Chennai_WH05,Mumbai,Pune,Delhivery,Van,2.61,822,1590.92,Delivered
+SHP004711,ORD104711,2026-07-05,Hyderabad_WH04,Kolkata,Chennai,Ecom Express,Truck,27.65,1415,2958.8,In Transit
+SHP004712,ORD104712,2026-07-05,Mumbai_WH02,Pune,Delhi,Delhivery,Van,43.61,60,711.32,In Transit
+SHP004713,ORD104713,2026-07-05,Delhi_WH01,Pune,Bengaluru,FedEx,Bike,14.61,1467,2895.92,Delivered
+SHP004714,ORD104714,2026-07-05,Hyderabad_WH04,Bengaluru,Mumbai,Blue Dart,Mini Truck,44.12,1718,3701.84,Delivered
+SHP004715,ORD104715,2026-07-05,Chennai_WH05,Lucknow,Bengaluru,Ecom Express,Mini Truck,24.23,2287,4487.36,Delivered
+SHP004716,ORD104716,2026-07-05,Chennai_WH05,Lucknow,Pune,DHL,Truck,38.62,1484,3214.64,Delivered
+SHP004717,ORD104717,2026-07-05,Delhi_WH01,Delhi,Mumbai,Delhivery,Mini Truck,34.72,283,1006.04,In Transit
+SHP004718,ORD104718,2026-07-05,Mumbai_WH02,Mumbai,Bengaluru,FedEx,Bike,45.61,133,866.72,Delivered
+SHP004719,ORD104719,2026-07-05,Delhi_WH01,Delhi,Lucknow,Ecom Express,Van,21.94,2306,4494.08,In Transit
+SHP004720,ORD104720,2026-07-05,Hyderabad_WH04,Mumbai,Bengaluru,Blue Dart,Truck,4.12,1597,3004.04,Delivered
+SHP004721,ORD104721,2026-07-05,Mumbai_WH02,Pune,Mumbai,DHL,Mini Truck,0.66,1678,3108.32,In Transit
+SHP004722,ORD104722,2026-07-05,Chennai_WH05,Hyderabad,Bengaluru,DHL,Truck,8.56,422,942.32,Delivered
+SHP004723,ORD104723,2026-07-05,Mumbai_WH02,Delhi,Chennai,Delhivery,Bike,17.12,284,796.64,Delivered
+SHP004724,ORD104724,2026-07-05,Hyderabad_WH04,Bengaluru,Delhi,Ecom Express,Van,46.62,855,2178.44,Delivered
+SHP004725,ORD104725,2026-07-05,Hyderabad_WH04,Pune,Hyderabad,FedEx,Bike,10.59,1306,2557.88,Delivered
+SHP004726,ORD104726,2026-07-05,Chennai_WH05,Jaipur,Delhi,Ecom Express,Truck,29.73,1212,2618.36,In Transit
+SHP004727,ORD104727,2026-07-05,Hyderabad_WH04,Pune,Jaipur,Delhivery,Mini Truck,24.03,501,1270.16,Delayed
+SHP004728,ORD104728,2026-07-05,Delhi_WH01,Pune,Mumbai,Ecom Express,Bike,43.14,1471,3245.48,Delivered
+SHP004729,ORD104729,2026-07-05,Mumbai_WH02,Chennai,Hyderabad,Delhivery,Truck,15.73,2180,4192.76,Delivered
+SHP004730,ORD104730,2026-07-05,Mumbai_WH02,Bengaluru,Hyderabad,Ecom Express,Van,15.03,201,622.16,Delivered
+SHP004731,ORD104731,2026-07-05,Chennai_WH05,Lucknow,Chennai,DHL,Bike,42.81,2081,4339.52,Delivered
+SHP004732,ORD104732,2026-07-05,Mumbai_WH02,Pune,Hyderabad,DHL,Van,4.12,2163,4022.84,In Transit
+SHP004733,ORD104733,2026-07-05,Delhi_WH01,Bengaluru,Delhi,DHL,Van,5.89,1695,3201.68,Delivered
+SHP004734,ORD104734,2026-07-05,Bengaluru_WH03,Bengaluru,Pune,Ecom Express,Mini Truck,47.02,1947,4148.84,Delivered
+SHP004735,ORD104735,2026-07-05,Chennai_WH05,Jaipur,Kolkata,Ecom Express,Mini Truck,9.58,520,1130.96,Delivered
+SHP004736,ORD104736,2026-07-05,Bengaluru_WH03,Delhi,Mumbai,Blue Dart,Truck,24.75,901,1998.8,In Transit
+SHP004737,ORD104737,2026-07-05,Chennai_WH05,Mumbai,Chennai,Delhivery,Mini Truck,27.39,2432,4786.28,In Transit
+SHP004738,ORD104738,2026-07-05,Mumbai_WH02,Jaipur,Bengaluru,Ecom Express,Mini Truck,13.97,792,1673.24,In Transit
+SHP004739,ORD104739,2026-07-05,Chennai_WH05,Mumbai,Bengaluru,Delhivery,Van,23.82,1840,3677.84,Cancelled
+SHP004740,ORD104740,2026-07-05,Hyderabad_WH04,Bengaluru,Hyderabad,FedEx,Van,5.96,2243,4188.92,Cancelled
+SHP004741,ORD104741,2026-07-05,Chennai_WH05,Chennai,Delhi,Delhivery,Truck,14.99,541,1233.68,In Transit
+SHP004742,ORD104742,2026-07-05,Bengaluru_WH03,Chennai,Ahmedabad,Delhivery,Van,48.66,754,2021.12,Delivered
+SHP004743,ORD104743,2026-07-05,Chennai_WH05,Lucknow,Delhi,Delhivery,Bike,26.0,2211,4371.8,In Transit
+SHP004744,ORD104744,2026-07-05,Mumbai_WH02,Delhi,Kolkata,Blue Dart,Van,3.44,1590,2983.28,In Transit
+SHP004745,ORD104745,2026-07-05,Hyderabad_WH04,Ahmedabad,Kolkata,Ecom Express,Mini Truck,30.4,1496,3137.6,Delivered
+SHP004746,ORD104746,2026-07-05,Mumbai_WH02,Delhi,Pune,Ecom Express,Truck,39.91,2452,4972.52,Delivered
+SHP004747,ORD104747,2026-07-05,Delhi_WH01,Mumbai,Bengaluru,Ecom Express,Truck,6.92,962,1894.64,In Transit
+SHP004748,ORD104748,2026-07-05,Chennai_WH05,Lucknow,Ahmedabad,FedEx,Bike,8.21,2425,4543.52,Delivered
+SHP004749,ORD104749,2026-07-05,Mumbai_WH02,Kolkata,Jaipur,FedEx,Bike,39.57,939,2245.04,Delivered
+SHP004750,ORD104750,2026-07-05,Delhi_WH01,Chennai,Hyderabad,DHL,Truck,35.96,1376,2988.32,Delivered
+SHP004751,ORD104751,2026-07-05,Hyderabad_WH04,Bengaluru,Lucknow,Ecom Express,Mini Truck,41.22,301,1116.44,Delivered
+SHP004752,ORD104752,2026-07-05,Chennai_WH05,Kolkata,Bengaluru,Blue Dart,Bike,43.12,1521,3335.24,Delivered
+SHP004753,ORD104753,2026-07-05,Bengaluru_WH03,Jaipur,Bengaluru,Ecom Express,Van,5.49,1310,2503.88,Delivered
+SHP004754,ORD104754,2026-07-05,Hyderabad_WH04,Lucknow,Chennai,FedEx,Van,28.98,473,1279.16,Delivered
+SHP004755,ORD104755,2026-07-05,Bengaluru_WH03,Pune,Lucknow,FedEx,Truck,4.99,1948,3646.28,Delivered
+SHP004756,ORD104756,2026-07-05,Chennai_WH05,Mumbai,Ahmedabad,Delhivery,Van,47.27,2014,4272.44,Delivered
+SHP004757,ORD104757,2026-07-05,Mumbai_WH02,Hyderabad,Mumbai,Ecom Express,Mini Truck,17.25,70,413.0,Delayed
+SHP004758,ORD104758,2026-07-05,Mumbai_WH02,Lucknow,Bengaluru,Ecom Express,Bike,21.39,1438,2925.08,Delivered
+SHP004759,ORD104759,2026-07-05,Bengaluru_WH03,Delhi,Ahmedabad,DHL,Truck,26.81,702,1665.32,Delivered
+SHP004760,ORD104760,2026-07-05,Chennai_WH05,Pune,Delhi,DHL,Bike,2.09,1634,3046.28,Delivered
+SHP004761,ORD104761,2026-07-05,Delhi_WH01,Lucknow,Mumbai,Ecom Express,Truck,18.34,1940,3792.08,Cancelled
+SHP004762,ORD104762,2026-07-05,Chennai_WH05,Lucknow,Delhi,DHL,Bike,10.93,2458,4635.56,In Transit
+SHP004763,ORD104763,2026-07-05,Bengaluru_WH03,Jaipur,Kolkata,Ecom Express,Bike,26.1,1737,3519.8,Delivered
+SHP004764,ORD104764,2026-07-05,Hyderabad_WH04,Kolkata,Lucknow,Blue Dart,Mini Truck,23.09,919,2011.28,Delivered
+SHP004765,ORD104765,2026-07-05,Bengaluru_WH03,Jaipur,Pune,Blue Dart,Truck,41.41,1447,3181.52,Cancelled
+SHP004766,ORD104766,2026-07-05,Chennai_WH05,Bengaluru,Delhi,DHL,Truck,1.69,1313,2463.68,Delivered
+SHP004767,ORD104767,2026-07-05,Delhi_WH01,Mumbai,Pune,FedEx,Truck,11.68,1891,3623.96,Delayed
+SHP004768,ORD104768,2026-07-05,Mumbai_WH02,Delhi,Hyderabad,Delhivery,Van,7.08,1569,2989.16,In Transit
+SHP004769,ORD104769,2026-07-05,Delhi_WH01,Pune,Chennai,DHL,Bike,45.8,664,1824.8,Delivered
+SHP004770,ORD104770,2026-07-05,Hyderabad_WH04,Pune,Bengaluru,DHL,Mini Truck,1.34,279,598.28,Delivered
+SHP004771,ORD104771,2026-07-05,Mumbai_WH02,Pune,Kolkata,Delhivery,Van,11.19,1650,3184.28,Delivered
+SHP004772,ORD104772,2026-07-05,Bengaluru_WH03,Ahmedabad,Hyderabad,FedEx,Van,32.46,1928,3939.92,Delivered
+SHP004773,ORD104773,2026-07-05,Mumbai_WH02,Chennai,Hyderabad,Blue Dart,Mini Truck,38.84,1976,4102.88,Delivered
+SHP004774,ORD104774,2026-07-05,Delhi_WH01,Hyderabad,Chennai,Blue Dart,Truck,11.92,1852,3556.64,Delivered
+SHP004775,ORD104775,2026-07-05,Hyderabad_WH04,Mumbai,Pune,DHL,Bike,17.06,817,1755.32,In Transit
+SHP004776,ORD104776,2026-07-05,Delhi_WH01,Pune,Lucknow,DHL,Bike,35.7,662,1700.0,Delivered
+SHP004777,ORD104777,2026-07-05,Bengaluru_WH03,Chennai,Lucknow,Delhivery,Mini Truck,17.3,2144,4146.8,Delivered
+SHP004778,ORD104778,2026-07-05,Hyderabad_WH04,Hyderabad,Mumbai,Blue Dart,Mini Truck,48.74,2099,4443.08,Delivered
+SHP004779,ORD104779,2026-07-05,Delhi_WH01,Jaipur,Lucknow,Ecom Express,Bike,16.04,139,522.68,In Transit
+SHP004780,ORD104780,2026-07-05,Hyderabad_WH04,Mumbai,Lucknow,Delhivery,Mini Truck,18.35,2154,4177.4,Delivered
+SHP004781,ORD104781,2026-07-05,Bengaluru_WH03,Kolkata,Ahmedabad,Blue Dart,Mini Truck,38.57,1722,3642.44,Delivered
+SHP004782,ORD104782,2026-07-05,Mumbai_WH02,Lucknow,Mumbai,Delhivery,Bike,2.3,480,971.6,Delivered
+SHP004783,ORD104783,2026-07-05,Hyderabad_WH04,Ahmedabad,Mumbai,FedEx,Van,11.1,1156,2294.0,Delivered
+SHP004784,ORD104784,2026-07-05,Mumbai_WH02,Hyderabad,Delhi,FedEx,Bike,4.04,909,1764.68,Delayed
+SHP004785,ORD104785,2026-07-05,Mumbai_WH02,Jaipur,Bengaluru,DHL,Truck,5.25,912,1784.6,In Transit
+SHP004786,ORD104786,2026-07-05,Delhi_WH01,Pune,Hyderabad,Ecom Express,Van,38.41,2124,4364.12,Delivered
+SHP004787,ORD104787,2026-07-05,Delhi_WH01,Chennai,Hyderabad,Ecom Express,Truck,17.64,2140,4143.68,Delivered
+SHP004788,ORD104788,2026-07-05,Mumbai_WH02,Lucknow,Delhi,DHL,Van,0.85,1817,3360.8,Delivered
+SHP004789,ORD104789,2026-07-05,Bengaluru_WH03,Delhi,Kolkata,DHL,Van,46.78,2439,5031.56,Delivered
+SHP004790,ORD104790,2026-07-05,Delhi_WH01,Kolkata,Chennai,Delhivery,Bike,12.15,416,974.6,Delivered
+SHP004791,ORD104791,2026-07-05,Mumbai_WH02,Lucknow,Hyderabad,Blue Dart,Mini Truck,20.3,2020,3959.6,Delivered
+SHP004792,ORD104792,2026-07-05,Mumbai_WH02,Hyderabad,Delhi,Delhivery,Bike,39.68,335,1159.16,In Transit
+SHP004793,ORD104793,2026-07-05,Delhi_WH01,Bengaluru,Ahmedabad,FedEx,Bike,41.34,1687,3612.68,Delivered
+SHP004794,ORD104794,2026-07-05,Delhi_WH01,Ahmedabad,Mumbai,Blue Dart,Truck,19.08,2426,4675.76,Delivered
+SHP004795,ORD104795,2026-07-05,Delhi_WH01,Jaipur,Chennai,FedEx,Mini Truck,39.53,1783,3763.76,Delivered
+SHP004796,ORD104796,2026-07-05,Hyderabad_WH04,Delhi,Jaipur,DHL,Truck,14.59,1354,2692.28,Delivered
+SHP004797,ORD104797,2026-07-05,Delhi_WH01,Lucknow,Kolkata,Delhivery,Truck,3.9,1897,3541.4,Delivered
+SHP004798,ORD104798,2026-07-05,Chennai_WH05,Pune,Ahmedabad,DHL,Bike,3.48,2089,3881.96,In Transit
+SHP004799,ORD104799,2026-07-05,Hyderabad_WH04,Hyderabad,Mumbai,DHL,Bike,41.2,896,2187.2,Delivered
+SHP004800,ORD104800,2026-07-05,Delhi_WH01,Kolkata,Chennai,FedEx,Bike,21.78,523,1282.76,Delivered
+SHP004801,ORD104801,2026-07-05,Chennai_WH05,Chennai,Hyderabad,Blue Dart,Mini Truck,11.05,372,882.2,Delayed
+SHP004802,ORD104802,2026-07-05,Chennai_WH05,Delhi,Mumbai,Delhivery,Truck,4.75,793,1564.4,In Transit
+SHP004803,ORD104803,2026-07-05,Delhi_WH01,Ahmedabad,Chennai,Blue Dart,Bike,29.05,1773,3620.0,Delivered
+SHP004804,ORD104804,2026-07-05,Mumbai_WH02,Bengaluru,Pune,DHL,Van,11.94,2226,4230.08,Delivered
+SHP004805,ORD104805,2026-07-05,Chennai_WH05,Chennai,Hyderabad,Delhivery,Truck,48.11,1175,2772.32,Delivered
+SHP004806,ORD104806,2026-07-05,Bengaluru_WH03,Jaipur,Hyderabad,DHL,Van,15.11,2192,4206.92,Delayed
+SHP004807,ORD104807,2026-07-05,Hyderabad_WH04,Hyderabad,Bengaluru,Blue Dart,Bike,25.38,509,1300.76,Delivered
+SHP004808,ORD104808,2026-07-05,Mumbai_WH02,Mumbai,Jaipur,Blue Dart,Truck,11.6,2216,4208.0,Delivered
+SHP004809,ORD104809,2026-07-05,Delhi_WH01,Ahmedabad,Kolkata,DHL,Bike,4.4,548,1119.2,Delivered
+SHP004810,ORD104810,2026-07-05,Mumbai_WH02,Pune,Kolkata,FedEx,Mini Truck,3.7,1836,3429.2,Delivered
+SHP004811,ORD104811,2026-07-05,Bengaluru_WH03,Pune,Delhi,Delhivery,Truck,16.85,2025,3927.2,Delivered
+SHP004812,ORD104812,2026-07-05,Mumbai_WH02,Chennai,Ahmedabad,Blue Dart,Bike,49.33,340,1283.96,Delivered
+SHP004813,ORD104813,2026-07-05,Hyderabad_WH04,Chennai,Bengaluru,DHL,Truck,1.67,388,798.44,Delivered
+SHP004814,ORD104814,2026-07-05,Mumbai_WH02,Lucknow,Mumbai,Ecom Express,Mini Truck,9.27,1438,2779.64,Delivered
+SHP004815,ORD104815,2026-07-05,Delhi_WH01,Lucknow,Jaipur,Blue Dart,Truck,42.53,927,2258.96,Delivered
+SHP004816,ORD104816,2026-07-05,Delhi_WH01,Chennai,Hyderabad,Blue Dart,Bike,39.56,2257,4617.32,Delivered
+SHP004817,ORD104817,2026-07-05,Delhi_WH01,Lucknow,Hyderabad,Delhivery,Van,8.15,1477,2836.4,Delivered
+SHP004818,ORD104818,2026-07-05,Hyderabad_WH04,Lucknow,Delhi,DHL,Van,49.17,654,1847.24,In Transit
+SHP004819,ORD104819,2026-07-05,Bengaluru_WH03,Hyderabad,Kolkata,Blue Dart,Bike,47.91,670,1860.92,Delivered
+SHP004820,ORD104820,2026-07-05,Hyderabad_WH04,Delhi,Kolkata,Blue Dart,Van,5.74,2076,3885.68,In Transit
+SHP004821,ORD104821,2026-07-05,Chennai_WH05,Lucknow,Ahmedabad,Ecom Express,Truck,3.58,402,846.56,In Transit
+SHP004822,ORD104822,2026-07-05,Hyderabad_WH04,Lucknow,Chennai,DHL,Truck,42.35,1550,3378.2,In Transit
+SHP004823,ORD104823,2026-07-05,Hyderabad_WH04,Mumbai,Delhi,Delhivery,Truck,28.18,2152,4291.76,Delivered
+SHP004824,ORD104824,2026-07-05,Delhi_WH01,Jaipur,Kolkata,Delhivery,Truck,22.9,2451,4766.6,In Transit
+SHP004825,ORD104825,2026-07-05,Delhi_WH01,Mumbai,Ahmedabad,Delhivery,Truck,11.28,2293,4342.76,Delivered
+SHP004826,ORD104826,2026-07-05,Mumbai_WH02,Chennai,Jaipur,Ecom Express,Mini Truck,43.03,459,1422.56,In Transit
+SHP004827,ORD104827,2026-07-05,Delhi_WH01,Bengaluru,Ahmedabad,DHL,Mini Truck,11.17,115,421.04,Delivered
+SHP004828,ORD104828,2026-07-05,Bengaluru_WH03,Pune,Mumbai,DHL,Bike,4.78,2432,4514.96,Delivered
+SHP004829,ORD104829,2026-07-05,Bengaluru_WH03,Lucknow,Kolkata,DHL,Bike,35.94,2222,4510.88,Delivered
+SHP004830,ORD104830,2026-07-05,Delhi_WH01,Mumbai,Bengaluru,DHL,Bike,19.43,720,1609.16,Delivered
+SHP004831,ORD104831,2026-07-05,Chennai_WH05,Hyderabad,Mumbai,Delhivery,Mini Truck,3.18,1018,1950.56,Delivered
+SHP004832,ORD104832,2026-07-05,Chennai_WH05,Hyderabad,Lucknow,DHL,Van,18.19,1570,3124.28,Delivered
+SHP004833,ORD104833,2026-07-05,Delhi_WH01,Chennai,Ahmedabad,FedEx,Mini Truck,38.25,1302,2882.6,Cancelled
+SHP004834,ORD104834,2026-07-05,Delhi_WH01,Ahmedabad,Hyderabad,Delhivery,Bike,23.86,606,1457.12,Delivered
+SHP004835,ORD104835,2026-07-05,Hyderabad_WH04,Kolkata,Chennai,FedEx,Bike,32.29,212,849.08,Delivered
+SHP004836,ORD104836,2026-07-05,Delhi_WH01,Hyderabad,Kolkata,Blue Dart,Van,41.33,1114,2581.16,Delayed
+SHP004837,ORD104837,2026-07-05,Hyderabad_WH04,Bengaluru,Lucknow,DHL,Van,21.69,899,1958.48,Delivered
+SHP004838,ORD104838,2026-07-05,Delhi_WH01,Lucknow,Kolkata,Ecom Express,Van,48.96,342,1283.12,Delivered
+SHP004839,ORD104839,2026-07-05,Delhi_WH01,Lucknow,Hyderabad,Ecom Express,Bike,35.05,2157,4383.2,Delivered
+SHP004840,ORD104840,2026-07-05,Chennai_WH05,Delhi,Bengaluru,Ecom Express,Bike,43.13,1383,3086.96,Delivered
+SHP004841,ORD104841,2026-07-05,Bengaluru_WH03,Jaipur,Ahmedabad,Ecom Express,Bike,43.42,1264,2876.24,In Transit
+SHP004842,ORD104842,2026-07-05,Mumbai_WH02,Bengaluru,Lucknow,FedEx,Bike,37.87,1360,2982.44,Delivered
+SHP004843,ORD104843,2026-07-05,Chennai_WH05,Delhi,Hyderabad,Ecom Express,Bike,36.21,1045,2395.52,Delivered
+SHP004844,ORD104844,2026-07-05,Delhi_WH01,Lucknow,Chennai,DHL,Bike,42.09,1496,3277.88,Delivered
+SHP004845,ORD104845,2026-07-05,Mumbai_WH02,Mumbai,Pune,Blue Dart,Truck,2.97,94,284.84,Delivered
+SHP004846,ORD104846,2026-07-05,Mumbai_WH02,Jaipur,Delhi,Ecom Express,Truck,6.66,2424,4523.12,Delivered
+SHP004847,ORD104847,2026-07-05,Delhi_WH01,Delhi,Jaipur,DHL,Truck,9.78,2086,3952.16,Delivered
+SHP004848,ORD104848,2026-07-05,Mumbai_WH02,Chennai,Pune,Ecom Express,Truck,37.37,1749,3676.64,Delivered
+SHP004849,ORD104849,2026-07-05,Bengaluru_WH03,Kolkata,Delhi,Blue Dart,Van,9.62,665,1392.44,Delivered
+SHP004850,ORD104850,2026-07-05,Bengaluru_WH03,Ahmedabad,Mumbai,Delhivery,Mini Truck,5.47,676,1362.44,In Transit
+SHP004851,ORD104851,2026-07-05,Chennai_WH05,Ahmedabad,Mumbai,Blue Dart,Van,9.19,1954,3707.48,Delivered
+SHP004852,ORD104852,2026-07-05,Hyderabad_WH04,Pune,Ahmedabad,Blue Dart,Mini Truck,32.28,2152,4340.96,In Transit
+SHP004853,ORD104853,2026-07-05,Bengaluru_WH03,Kolkata,Delhi,DHL,Truck,2.88,1468,2756.96,Delivered
+SHP004854,ORD104854,2026-07-05,Delhi_WH01,Kolkata,Hyderabad,Delhivery,Bike,16.86,1311,2642.12,In Transit
+SHP004855,ORD104855,2026-07-05,Bengaluru_WH03,Jaipur,Bengaluru,Delhivery,Mini Truck,17.09,1204,2452.28,Delivered
+SHP004856,ORD104856,2026-07-05,Bengaluru_WH03,Bengaluru,Hyderabad,FedEx,Truck,30.7,1483,3117.8,Delivered
+SHP004857,ORD104857,2026-07-05,Hyderabad_WH04,Pune,Lucknow,DHL,Mini Truck,24.08,2401,4690.76,Delivered
+SHP004858,ORD104858,2026-07-05,Bengaluru_WH03,Ahmedabad,Chennai,DHL,Truck,22.57,1725,3455.84,Delayed
+SHP004859,ORD104859,2026-07-05,Chennai_WH05,Bengaluru,Jaipur,FedEx,Mini Truck,6.96,1132,2201.12,Delivered
+SHP004860,ORD104860,2026-07-05,Hyderabad_WH04,Lucknow,Hyderabad,DHL,Mini Truck,20.07,1008,2135.24,Delivered
+SHP004861,ORD104861,2026-07-05,Delhi_WH01,Pune,Bengaluru,Ecom Express,Bike,31.16,290,975.92,Delivered
+SHP004862,ORD104862,2026-07-05,Bengaluru_WH03,Ahmedabad,Hyderabad,Ecom Express,Mini Truck,20.01,422,1079.72,Delivered
+SHP004863,ORD104863,2026-07-05,Hyderabad_WH04,Kolkata,Jaipur,Ecom Express,Mini Truck,36.51,2021,4155.92,Delivered
+SHP004864,ORD104864,2026-07-05,Chennai_WH05,Jaipur,Mumbai,FedEx,Bike,42.86,1572,3423.92,Cancelled
+SHP004865,ORD104865,2026-07-05,Chennai_WH05,Kolkata,Delhi,DHL,Bike,26.4,417,1147.4,Delivered
+SHP004866,ORD104866,2026-07-05,Delhi_WH01,Lucknow,Mumbai,Ecom Express,Mini Truck,26.37,1302,2740.04,In Transit
+SHP004867,ORD104867,2026-07-05,Chennai_WH05,Hyderabad,Chennai,Ecom Express,Van,23.52,1884,3753.44,Delivered
+SHP004868,ORD104868,2026-07-05,Chennai_WH05,Hyderabad,Pune,Blue Dart,Mini Truck,46.02,2400,4952.24,In Transit
+SHP004869,ORD104869,2026-07-05,Bengaluru_WH03,Kolkata,Mumbai,Delhivery,Van,45.93,1706,3701.96,Delivered
+SHP004870,ORD104870,2026-07-05,Mumbai_WH02,Mumbai,Chennai,Blue Dart,Bike,36.57,219,913.04,Delivered
+SHP004871,ORD104871,2026-07-05,Mumbai_WH02,Hyderabad,Mumbai,Ecom Express,Bike,30.22,2007,4055.24,Cancelled
+SHP004872,ORD104872,2026-07-05,Delhi_WH01,Bengaluru,Kolkata,FedEx,Mini Truck,47.65,1002,2455.4,Delayed
+SHP004873,ORD104873,2026-07-05,Bengaluru_WH03,Delhi,Pune,Blue Dart,Bike,23.52,2133,4201.64,Delivered
+SHP004874,ORD104874,2026-07-05,Mumbai_WH02,Ahmedabad,Hyderabad,Delhivery,Bike,42.7,1543,3369.8,Delivered
+SHP004875,ORD104875,2026-07-05,Hyderabad_WH04,Delhi,Lucknow,FedEx,Bike,49.73,1788,3895.16,Delivered
+SHP004876,ORD104876,2026-07-05,Bengaluru_WH03,Pune,Lucknow,Blue Dart,Mini Truck,45.88,102,814.16,Delivered
+SHP004877,ORD104877,2026-07-05,Delhi_WH01,Chennai,Hyderabad,FedEx,Van,0.76,214,474.32,Delivered
+SHP004878,ORD104878,2026-07-05,Chennai_WH05,Hyderabad,Chennai,Blue Dart,Truck,23.72,2155,4243.64,Delivered
+SHP004879,ORD104879,2026-07-05,Mumbai_WH02,Hyderabad,Chennai,Delhivery,Mini Truck,18.77,534,1266.44,Delivered
+SHP004880,ORD104880,2026-07-05,Mumbai_WH02,Jaipur,Lucknow,Delhivery,Truck,37.58,734,1852.16,In Transit
+SHP004881,ORD104881,2026-07-05,Chennai_WH05,Jaipur,Mumbai,FedEx,Truck,47.76,350,1283.12,Delivered
+SHP004882,ORD104882,2026-07-05,Bengaluru_WH03,Jaipur,Kolkata,Delhivery,Mini Truck,0.72,217,479.24,Delivered
+SHP004883,ORD104883,2026-07-05,Hyderabad_WH04,Bengaluru,Ahmedabad,Ecom Express,Truck,34.19,1444,3089.48,Delivered
+SHP004884,ORD104884,2026-07-05,Bengaluru_WH03,Chennai,Kolkata,Blue Dart,Van,44.43,159,899.36,In Transit
+SHP004885,ORD104885,2026-07-05,Delhi_WH01,Jaipur,Delhi,FedEx,Mini Truck,14.74,2170,4162.88,Delayed
+SHP004886,ORD104886,2026-07-05,Delhi_WH01,Hyderabad,Lucknow,DHL,Bike,14.88,90,420.56,Delivered
+SHP004887,ORD104887,2026-07-05,Mumbai_WH02,Delhi,Kolkata,DHL,Bike,21.01,2251,4383.92,Delayed
+SHP004888,ORD104888,2026-07-05,Delhi_WH01,Delhi,Chennai,Ecom Express,Bike,26.65,1515,3126.8,In Transit
+SHP004889,ORD104889,2026-07-05,Chennai_WH05,Jaipur,Hyderabad,FedEx,Bike,34.85,1445,3099.2,Delivered
+SHP004890,ORD104890,2026-07-05,Chennai_WH05,Mumbai,Bengaluru,Blue Dart,Van,1.56,2012,3720.32,In Transit
+SHP004891,ORD104891,2026-07-05,Hyderabad_WH04,Delhi,Bengaluru,Delhivery,Truck,34.31,448,1298.12,In Transit
+SHP004892,ORD104892,2026-07-05,Bengaluru_WH03,Hyderabad,Bengaluru,DHL,Truck,23.78,2007,3977.96,Delivered
+SHP004893,ORD104893,2026-07-05,Hyderabad_WH04,Mumbai,Chennai,Delhivery,Bike,7.88,433,953.96,Delivered
+SHP004894,ORD104894,2026-07-05,Chennai_WH05,Pune,Lucknow,FedEx,Bike,27.23,1485,3079.76,In Transit
+SHP004895,ORD104895,2026-07-05,Delhi_WH01,Ahmedabad,Kolkata,Blue Dart,Van,49.46,2116,4482.32,Delivered
+SHP004896,ORD104896,2026-07-05,Bengaluru_WH03,Ahmedabad,Jaipur,DHL,Van,15.97,278,772.04,Delivered
+SHP004897,ORD104897,2026-07-05,Chennai_WH05,Jaipur,Ahmedabad,FedEx,Mini Truck,32.42,1074,2402.24,Delivered
+SHP004898,ORD104898,2026-07-05,Chennai_WH05,Hyderabad,Delhi,DHL,Truck,31.58,1470,3104.96,In Transit
+SHP004899,ORD104899,2026-07-05,Chennai_WH05,Delhi,Hyderabad,FedEx,Van,10.07,1409,2737.04,Cancelled
+SHP004900,ORD104900,2026-07-05,Mumbai_WH02,Jaipur,Bengaluru,Ecom Express,Van,20.72,2297,4463.24,Delayed
+SHP004901,ORD104901,2026-07-05,Hyderabad_WH04,Bengaluru,Jaipur,Ecom Express,Bike,2.66,332,709.52,Delayed
+SHP004902,ORD104902,2026-07-05,Chennai_WH05,Pune,Chennai,Ecom Express,Mini Truck,32.86,192,819.92,Delivered
+SHP004903,ORD104903,2026-07-05,Bengaluru_WH03,Hyderabad,Delhi,Ecom Express,Truck,41.78,95,752.36,Delivered
+SHP004904,ORD104904,2026-07-05,Delhi_WH01,Delhi,Jaipur,Blue Dart,Van,16.56,2484,4749.92,Delayed
+SHP004905,ORD104905,2026-07-05,Mumbai_WH02,Jaipur,Ahmedabad,DHL,Truck,15.01,2345,4481.12,In Transit
+SHP004906,ORD104906,2026-07-05,Delhi_WH01,Mumbai,Ahmedabad,DHL,Bike,20.66,716,1616.72,Delivered
+SHP004907,ORD104907,2026-07-05,Hyderabad_WH04,Lucknow,Delhi,Delhivery,Mini Truck,30.07,1545,3221.84,Delivered
+SHP004908,ORD104908,2026-07-05,Hyderabad_WH04,Ahmedabad,Jaipur,DHL,Van,41.1,2171,4481.0,Delayed
+SHP004909,ORD104909,2026-07-05,Hyderabad_WH04,Lucknow,Hyderabad,FedEx,Mini Truck,43.92,86,761.84,In Transit
+SHP004910,ORD104910,2026-07-05,Bengaluru_WH03,Chennai,Bengaluru,Ecom Express,Van,19.96,2030,3973.52,Delivered
+SHP004911,ORD104911,2026-07-05,Delhi_WH01,Delhi,Kolkata,Blue Dart,Truck,20.48,1117,2336.36,In Transit
+SHP004912,ORD104912,2026-07-05,Mumbai_WH02,Kolkata,Mumbai,FedEx,Bike,45.65,1998,4224.2,In Transit
+SHP004913,ORD104913,2026-07-05,Hyderabad_WH04,Kolkata,Mumbai,Delhivery,Truck,16.1,528,1223.6,In Transit
+SHP004914,ORD104914,2026-07-05,Bengaluru_WH03,Delhi,Kolkata,DHL,Mini Truck,36.44,1072,2446.88,Delayed
+SHP004915,ORD104915,2026-07-05,Hyderabad_WH04,Lucknow,Kolkata,Blue Dart,Mini Truck,20.75,1552,3122.6,Delivered
+SHP004916,ORD104916,2026-07-05,Mumbai_WH02,Delhi,Hyderabad,DHL,Truck,45.83,1948,4136.36,Delivered
+SHP004917,ORD104917,2026-07-05,Bengaluru_WH03,Ahmedabad,Delhi,FedEx,Mini Truck,20.91,434,1112.12,Delivered
+SHP004918,ORD104918,2026-07-05,Hyderabad_WH04,Delhi,Pune,Ecom Express,Mini Truck,32.93,334,1076.36,Delivered
+SHP004919,ORD104919,2026-07-05,Hyderabad_WH04,Delhi,Pune,FedEx,Bike,40.45,144,824.6,Delivered
+SHP004920,ORD104920,2026-07-05,Chennai_WH05,Ahmedabad,Lucknow,Delhivery,Bike,25.9,1203,2556.2,Delivered
+SHP004921,ORD104921,2026-07-05,Bengaluru_WH03,Bengaluru,Hyderabad,FedEx,Van,45.86,526,1577.12,Delivered
+SHP004922,ORD104922,2026-07-05,Bengaluru_WH03,Lucknow,Bengaluru,Delhivery,Mini Truck,12.38,1934,3709.76,Delivered
+SHP004923,ORD104923,2026-07-05,Hyderabad_WH04,Kolkata,Jaipur,FedEx,Truck,12.41,1580,3072.92,Delivered
+SHP004924,ORD104924,2026-07-05,Mumbai_WH02,Kolkata,Delhi,Blue Dart,Mini Truck,1.63,1879,3481.76,Delivered
+SHP004925,ORD104925,2026-07-05,Hyderabad_WH04,Pune,Kolkata,Delhivery,Truck,6.15,1243,2391.2,Delivered
+SHP004926,ORD104926,2026-07-05,Delhi_WH01,Lucknow,Hyderabad,Ecom Express,Mini Truck,18.83,1365,2762.96,Delivered
+SHP004927,ORD104927,2026-07-05,Delhi_WH01,Jaipur,Lucknow,Blue Dart,Van,28.54,1685,3455.48,In Transit
+SHP004928,ORD104928,2026-07-05,Hyderabad_WH04,Delhi,Mumbai,DHL,Van,39.46,394,1262.72,Delivered
+SHP004929,ORD104929,2026-07-05,Mumbai_WH02,Kolkata,Pune,FedEx,Mini Truck,28.52,559,1428.44,Delivered
+SHP004930,ORD104930,2026-07-05,Delhi_WH01,Bengaluru,Mumbai,Ecom Express,Bike,16.19,2304,4421.48,Delivered
+SHP004931,ORD104931,2026-07-05,Hyderabad_WH04,Kolkata,Jaipur,Blue Dart,Bike,28.71,1964,3959.72,Delivered
+SHP004932,ORD104932,2026-07-05,Mumbai_WH02,Lucknow,Kolkata,DHL,Truck,33.74,255,943.88,Delivered
+SHP004933,ORD104933,2026-07-05,Chennai_WH05,Mumbai,Hyderabad,Ecom Express,Van,46.58,1607,3531.56,Delivered
+SHP004934,ORD104934,2026-07-05,Delhi_WH01,Mumbai,Delhi,DHL,Mini Truck,16.83,1384,2773.16,Delivered
+SHP004935,ORD104935,2026-07-05,Mumbai_WH02,Ahmedabad,Hyderabad,Delhivery,Bike,31.06,1080,2396.72,Delivered
+SHP004936,ORD104936,2026-07-05,Chennai_WH05,Mumbai,Lucknow,Ecom Express,Mini Truck,6.22,1098,2131.04,In Transit
+SHP004937,ORD104937,2026-07-05,Chennai_WH05,Hyderabad,Delhi,DHL,Mini Truck,28.31,826,1906.52,In Transit
+SHP004938,ORD104938,2026-07-05,Hyderabad_WH04,Chennai,Ahmedabad,DHL,Truck,36.04,2135,4355.48,Delivered
+SHP004939,ORD104939,2026-07-05,Mumbai_WH02,Hyderabad,Chennai,Blue Dart,Truck,20.52,1197,2480.84,Delivered
+SHP004940,ORD104940,2026-07-05,Bengaluru_WH03,Mumbai,Hyderabad,Delhivery,Van,21.28,2339,4545.56,Delivered
+SHP004941,ORD104941,2026-07-05,Delhi_WH01,Delhi,Kolkata,Ecom Express,Mini Truck,2.29,1026,1954.28,Delivered
+SHP004942,ORD104942,2026-07-05,Hyderabad_WH04,Hyderabad,Jaipur,FedEx,Truck,37.51,1075,2465.12,Delivered
+SHP004943,ORD104943,2026-07-05,Hyderabad_WH04,Chennai,Pune,Delhivery,Bike,45.32,2394,4933.04,In Transit
+SHP004944,ORD104944,2026-07-05,Hyderabad_WH04,Delhi,Ahmedabad,FedEx,Van,32.03,173,775.76,Delivered
+SHP004945,ORD104945,2026-07-05,Chennai_WH05,Lucknow,Ahmedabad,FedEx,Mini Truck,36.56,2271,4606.52,In Transit
+SHP004946,ORD104946,2026-07-05,Delhi_WH01,Kolkata,Lucknow,Delhivery,Truck,15.33,2054,3961.16,In Transit
+SHP004947,ORD104947,2026-07-05,Bengaluru_WH03,Kolkata,Jaipur,Ecom Express,Mini Truck,25.63,1788,3605.96,Delivered
+SHP004948,ORD104948,2026-07-05,Mumbai_WH02,Bengaluru,Hyderabad,Delhivery,Mini Truck,26.21,375,1069.52,Delivered
+SHP004949,ORD104949,2026-07-05,Chennai_WH05,Jaipur,Kolkata,Ecom Express,Van,21.81,2076,4078.52,Delivered
+SHP004950,ORD104950,2026-07-05,Mumbai_WH02,Lucknow,Pune,DHL,Van,42.54,1390,3092.48,Delivered
+SHP004951,ORD104951,2026-07-05,Chennai_WH05,Lucknow,Ahmedabad,Delhivery,Bike,1.3,1104,2082.8,Delayed
+SHP004952,ORD104952,2026-07-05,Hyderabad_WH04,Ahmedabad,Chennai,DHL,Truck,41.38,2447,4981.16,In Transit
+SHP004953,ORD104953,2026-07-05,Hyderabad_WH04,Jaipur,Delhi,Ecom Express,Van,27.19,1985,3979.28,Delivered
+SHP004954,ORD104954,2026-07-05,Mumbai_WH02,Mumbai,Kolkata,DHL,Mini Truck,45.21,593,1689.92,Delivered
+SHP004955,ORD104955,2026-07-05,Delhi_WH01,Hyderabad,Lucknow,Blue Dart,Van,6.15,69,278.0,Delivered
+SHP004956,ORD104956,2026-07-05,Chennai_WH05,Delhi,Hyderabad,Blue Dart,Truck,30.14,1840,3753.68,Delivered
+SHP004957,ORD104957,2026-07-05,Chennai_WH05,Jaipur,Chennai,FedEx,Mini Truck,2.76,1092,2078.72,In Transit
+SHP004958,ORD104958,2026-07-05,Bengaluru_WH03,Chennai,Delhi,FedEx,Truck,7.24,1919,3621.08,In Transit
+SHP004959,ORD104959,2026-07-05,Hyderabad_WH04,Pune,Delhi,Delhivery,Truck,34.09,865,2046.08,Delivered
+SHP004960,ORD104960,2026-07-05,Mumbai_WH02,Mumbai,Jaipur,DHL,Van,11.23,1490,2896.76,Delivered
+SHP004961,ORD104961,2026-07-05,Delhi_WH01,Chennai,Lucknow,Blue Dart,Bike,25.5,739,1716.2,Delivered
+SHP004962,ORD104962,2026-07-05,Hyderabad_WH04,Delhi,Pune,DHL,Van,18.32,60,407.84,Delivered
+SHP004963,ORD104963,2026-07-05,Hyderabad_WH04,Chennai,Mumbai,Delhivery,Bike,22.04,242,780.08,In Transit
+SHP004964,ORD104964,2026-07-05,Mumbai_WH02,Kolkata,Jaipur,DHL,Truck,11.96,1141,2277.32,In Transit
+SHP004965,ORD104965,2026-07-05,Delhi_WH01,Ahmedabad,Pune,FedEx,Van,36.33,1477,3174.56,Delayed
+SHP004966,ORD104966,2026-07-05,Chennai_WH05,Mumbai,Delhi,DHL,Van,39.73,251,1008.56,Delivered
+SHP004967,ORD104967,2026-07-05,Hyderabad_WH04,Jaipur,Chennai,DHL,Van,33.78,1141,2539.16,Delivered
+SHP004968,ORD104968,2026-07-05,Chennai_WH05,Chennai,Kolkata,Delhivery,Mini Truck,12.55,2327,4419.2,In Transit
+SHP004969,ORD104969,2026-07-05,Chennai_WH05,Ahmedabad,Kolkata,Ecom Express,Van,4.82,768,1520.24,In Transit
+SHP004970,ORD104970,2026-07-05,Delhi_WH01,Kolkata,Bengaluru,Blue Dart,Bike,42.46,481,1455.32,Delivered
+SHP004971,ORD104971,2026-07-05,Hyderabad_WH04,Bengaluru,Delhi,FedEx,Truck,1.03,70,218.36,Delivered
+SHP004972,ORD104972,2026-07-05,Bengaluru_WH03,Hyderabad,Ahmedabad,Ecom Express,Bike,45.42,1182,2752.64,Delivered
+SHP004973,ORD104973,2026-07-05,Bengaluru_WH03,Mumbai,Chennai,DHL,Truck,8.25,713,1462.4,Delivered
+SHP004974,ORD104974,2026-07-05,Delhi_WH01,Hyderabad,Mumbai,Ecom Express,Van,14.83,2358,4502.36,Delivered
+SHP004975,ORD104975,2026-07-05,Hyderabad_WH04,Pune,Hyderabad,Blue Dart,Mini Truck,30.7,2320,4624.4,Delivered
+SHP004976,ORD104976,2026-07-05,Chennai_WH05,Ahmedabad,Delhi,FedEx,Mini Truck,44.88,195,969.56,Returned
+SHP004977,ORD104977,2026-07-05,Mumbai_WH02,Kolkata,Chennai,DHL,Bike,11.11,2265,4290.32,Delivered
+SHP004978,ORD104978,2026-07-05,Hyderabad_WH04,Delhi,Kolkata,Delhivery,Mini Truck,47.06,1435,3227.72,Delivered
+SHP004979,ORD104979,2026-07-05,Hyderabad_WH04,Chennai,Bengaluru,Delhivery,Van,45.63,1805,3876.56,Delivered
+SHP004980,ORD104980,2026-07-05,Chennai_WH05,Bengaluru,Delhi,Ecom Express,Truck,45.15,604,1709.0,Cancelled
+SHP004981,ORD104981,2026-07-05,Mumbai_WH02,Jaipur,Mumbai,Ecom Express,Van,44.66,866,2174.72,Delivered
+SHP004982,ORD104982,2026-07-05,Hyderabad_WH04,Kolkata,Bengaluru,FedEx,Bike,22.66,2460,4779.92,Delivered
+SHP004983,ORD104983,2026-07-05,Bengaluru_WH03,Jaipur,Mumbai,Ecom Express,Mini Truck,42.16,1260,2853.92,Delivered
+SHP004984,ORD104984,2026-07-05,Bengaluru_WH03,Hyderabad,Pune,FedEx,Van,46.37,2454,5053.64,Delivered
+SHP004985,ORD104985,2026-07-05,Chennai_WH05,Hyderabad,Kolkata,Delhivery,Van,18.26,716,1587.92,Delivered
+SHP004986,ORD104986,2026-07-05,Mumbai_WH02,Chennai,Ahmedabad,Delhivery,Bike,8.56,1260,2450.72,Delivered
+SHP004987,ORD104987,2026-07-05,Hyderabad_WH04,Delhi,Kolkata,Blue Dart,Truck,32.56,842,1986.32,Delivered
+SHP004988,ORD104988,2026-07-05,Hyderabad_WH04,Mumbai,Chennai,Delhivery,Truck,1.23,2471,4542.56,Delivered
+SHP004989,ORD104989,2026-07-05,Bengaluru_WH03,Mumbai,Delhi,Delhivery,Van,15.2,130,496.4,In Transit
+SHP004990,ORD104990,2026-07-05,Delhi_WH01,Hyderabad,Ahmedabad,DHL,Truck,17.27,435,1070.24,Delayed
+SHP004991,ORD104991,2026-07-05,Delhi_WH01,Ahmedabad,Delhi,DHL,Bike,40.74,2100,4348.88,In Transit
+SHP004992,ORD104992,2026-07-05,Hyderabad_WH04,Jaipur,Bengaluru,Delhivery,Truck,46.38,2460,5064.56,In Transit
+SHP004993,ORD104993,2026-07-05,Delhi_WH01,Lucknow,Jaipur,Ecom Express,Mini Truck,48.4,130,894.8,Delivered
+SHP004994,ORD104994,2026-07-05,Mumbai_WH02,Delhi,Pune,DHL,Bike,13.3,388,938.0,Returned
+SHP004995,ORD104995,2026-07-05,Bengaluru_WH03,Ahmedabad,Pune,DHL,Mini Truck,35.64,765,1884.68,Delivered
+SHP004996,ORD104996,2026-07-05,Bengaluru_WH03,Kolkata,Chennai,Delhivery,Bike,49.59,1039,2545.28,Delivered
+SHP004997,ORD104997,2026-07-05,Delhi_WH01,Pune,Ahmedabad,FedEx,Mini Truck,36.96,131,759.32,Delivered
+SHP004998,ORD104998,2026-07-05,Hyderabad_WH04,Mumbai,Lucknow,Delhivery,Bike,41.14,1319,2947.88,In Transit
+SHP004999,ORD104999,2026-07-05,Bengaluru_WH03,Ahmedabad,Kolkata,Delhivery,Bike,33.09,940,2169.08,Delivered
+SHP005000,ORD105000,2026-07-05,Chennai_WH05,Bengaluru,Mumbai,Ecom Express,Bike,2.13,1075,2040.56,Delivered
